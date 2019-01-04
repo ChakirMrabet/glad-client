@@ -1,0 +1,725 @@
+[Tue May 30 17:35:13.673717 2017] [:error] [pid 16582] [client 2400:cb00:128:1024::ac44:b551:30070] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Tue May 30 17:35:14.528149 2017] [:error] [pid 16585] [client 2400:cb00:128:1024::ac44:b551:30129] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Wed May 31 04:18:10.248818 2017] [:error] [pid 16581] [client 2400:cb00:128:1024::ac44:b551:48122] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Jun 01 08:17:52.725662 2017] [:error] [pid 16583] [client 2400:cb00:15:1024::a29e:44c9:36880] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Jun 01 08:17:52.909194 2017] [:error] [pid 16582] [client 2400:cb00:15:1024::a29e:44c9:36957] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Jun 03 14:09:56.386433 2017] [:error] [pid 16534] [client 2400:cb00:15:1024::a29e:44c9:19192] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Jun 03 14:09:56.574349 2017] [:error] [pid 16579] [client 2400:cb00:15:1024::a29e:44c9:19219] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sun Jun 04 20:04:06.608334 2017] [:error] [pid 3492] [client 2400:cb00:39:1024::a29e:c456:25952] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon Jun 05 19:10:46.625027 2017] [:error] [pid 3489] [client 2400:cb00:15:1024::a29e:44c9:45501] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Mon Jun 05 19:10:49.018799 2017] [:error] [pid 3493] [client 2400:cb00:15:1024::a29e:44c9:46322] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Jun 08 10:49:13.751078 2017] [:error] [pid 10222] [client 2400:cb00:14:1024::ac44:386e:12508] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Jun 08 21:44:03.181578 2017] [:error] [pid 3485] [client 2400:cb00:71:1024::a29e:574c:40996] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Jun 09 03:36:04.450621 2017] [:error] [pid 3485] [client 2400:cb00:71:1024::a29e:574c:39556] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Jun 09 03:36:04.843275 2017] [:error] [pid 3490] [client 2400:cb00:71:1024::a29e:574c:39920] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Jun 10 00:07:10.708156 2017] [:error] [pid 3482] [client 2400:cb00:125:1024::ac44:953e:47780] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Jun 10 13:58:41.091369 2017] [:error] [pid 3481] [client 2400:cb00:35:1024::a29e:a138:34454] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Wed Jun 14 03:21:28.029789 2017] [:error] [pid 21866] [client 2400:cb00:15:1024::a29e:44c9:47736] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Wed Jun 14 03:21:28.574048 2017] [:error] [pid 21819] [client 2400:cb00:15:1024::a29e:44c9:47786] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Wed Jun 14 18:15:58.538689 2017] [:error] [pid 21821] [client 2400:cb00:21:1024::8d65:6a08:33673] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Wed Jun 14 18:16:00.091426 2017] [:error] [pid 21864] [client 2400:cb00:21:1024::8d65:6a08:34200] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Jun 14 18:16:00.255469 2017] [:error] [pid 21868] [client 2400:cb00:21:1024::8d65:6a08:34218] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Fri Jun 16 23:19:25.811162 2017] [:error] [pid 30052] [client 2400:cb00:14:1024::6ca2:d94a:33525] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Fri Jun 16 23:19:25.952384 2017] [:error] [pid 21868] [client 2400:cb00:14:1024::6ca2:d94a:33542] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Fri Jun 23 23:33:14.647589 2017] [:error] [pid 10267] [client 2400:cb00:71:1024::a29e:574c:12712] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Jun 23 23:33:14.901648 2017] [:error] [pid 10273] [client 2400:cb00:71:1024::a29e:574c:12788] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Jun 24 10:56:22.644347 2017] [:error] [pid 10274] [client 2400:cb00:71:1024::a29e:574c:56660] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Jun 24 10:56:23.447226 2017] [:error] [pid 10272] [client 2400:cb00:71:1024::a29e:574c:57084] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Jun 24 12:07:36.674361 2017] [:error] [pid 10273] [client 2400:cb00:71:1024::a29e:5208:40868] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Jun 24 17:14:01.787222 2017] [:error] [pid 10274] [client 2400:cb00:4:1024::a29e:fda5:20975] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sat Jun 24 17:14:02.222416 2017] [:error] [pid 10271] [client 2400:cb00:4:1024::a29e:fda5:21150] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sat Jun 24 20:51:21.404123 2017] [:error] [pid 10271] [client 2400:cb00:21:1024::8d65:6a98:12524] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Jun 24 20:51:22.907841 2017] [:error] [pid 10269] [client 2400:cb00:21:1024::8d65:6a98:12876] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat Jun 24 20:51:23.072552 2017] [:error] [pid 10267] [client 2400:cb00:21:1024::8d65:6a98:12932] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Jun 25 16:30:19.426090 2017] [:error] [pid 24116] [client 2400:cb00:14:1024::a29e:493e:57146] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sun Jun 25 16:30:19.500310 2017] [:error] [pid 24119] [client 2400:cb00:14:1024::a29e:493e:57182] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sun Jun 25 18:37:02.266188 2017] [:error] [pid 24162] [client 2400:cb00:71:1024::a29e:527a:31977] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sun Jun 25 18:37:02.532751 2017] [:error] [pid 24165] [client 2400:cb00:71:1024::a29e:527a:32076] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sun Jun 25 18:39:26.233847 2017] [:error] [pid 24233] [client 2400:cb00:71:1024::a29e:527a:24730] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Jun 25 18:39:26.490608 2017] [:error] [pid 24118] [client 2400:cb00:71:1024::a29e:527a:24782] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Jun 25 18:54:33.170098 2017] [:error] [pid 24166] [client 2400:cb00:71:1024::a29e:527a:46828] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Jun 25 18:54:33.523240 2017] [:error] [pid 24163] [client 2400:cb00:71:1024::a29e:527a:46924] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Jun 25 18:55:33.979237 2017] [:error] [pid 24233] [client 2400:cb00:71:1024::a29e:527a:65192] script '/var/www/glad.softelos.com/admin.php' not found or unable to stat
+[Mon Jun 26 06:28:48.894401 2017] [:error] [pid 24166] [client 2400:cb00:71:1024::a29e:574c:40396] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Mon Jun 26 06:28:49.127928 2017] [:error] [pid 24116] [client 2400:cb00:71:1024::a29e:574c:40508] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Wed Jun 28 17:27:51.225503 2017] [:error] [pid 24118] [client 2400:cb00:71:1024::a29e:574c:52386] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Jun 29 22:22:36.057400 2017] [:error] [pid 24116] [client 2400:cb00:4:1024::ac44:8c2a:46818] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Thu Jun 29 22:22:36.474671 2017] [:error] [pid 24159] [client 2400:cb00:4:1024::ac44:8c2a:46946] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sat Jul 01 10:02:52.891162 2017] [:error] [pid 24117] [client 2400:cb00:71:1024::a29e:559c:10156] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Mon Jul 03 01:49:58.498258 2017] [:error] [pid 24164] [client 2400:cb00:4:1024::a29e:fc38:24420] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon Jul 03 09:28:20.356323 2017] [:error] [pid 9389] [client 2400:cb00:71:1024::a29e:574c:60504] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Mon Jul 03 10:23:59.078697 2017] [:error] [pid 9344] [client 2400:cb00:14:1024::a29e:4926:50734] script '/var/www/glad.softelos.com/license.php' not found or unable to stat, referer: http://softelos.com/wp-admin/
+[Wed Jul 05 23:33:59.144342 2017] [:error] [pid 9343] [client 2400:cb00:71:1024::a29e:53f9:55560] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Jul 06 07:04:54.244944 2017] [:error] [pid 9453] [client 2400:cb00:71:1024::a29e:574c:48746] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Jul 06 07:04:54.553402 2017] [:error] [pid 9343] [client 2400:cb00:71:1024::a29e:574c:48882] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Jul 06 09:29:11.295611 2017] [:error] [pid 9395] [client 2400:cb00:16:1024::a29e:4c98:39798] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Jul 06 13:24:42.559318 2017] [:error] [pid 9395] [client 2400:cb00:71:1024::a29e:53f9:20875] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Jul 06 13:24:44.360184 2017] [:error] [pid 9389] [client 2400:cb00:71:1024::a29e:53f9:22084] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu Jul 06 13:24:44.557015 2017] [:error] [pid 10135] [client 2400:cb00:71:1024::a29e:53f9:22140] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat Jul 08 13:10:13.847761 2017] [:error] [pid 17583] [client 2400:cb00:11:1024::c629:ebaa:60876] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Jul 08 13:10:14.186879 2017] [:error] [pid 17586] [client 2400:cb00:11:1024::c629:ebaa:60934] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat Jul 08 13:10:14.324117 2017] [:error] [pid 21807] [client 2400:cb00:11:1024::c629:ebaa:60986] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat Jul 08 14:17:37.278995 2017] [:error] [pid 17577] [client 2400:cb00:71:1024::a29e:574c:50174] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Jul 08 14:17:38.764205 2017] [:error] [pid 17582] [client 2400:cb00:71:1024::a29e:574c:51006] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Mon Jul 10 01:02:54.701673 2017] [:error] [pid 24065] [client 2400:cb00:71:1024::a29e:574c:38228] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Mon Jul 10 01:02:54.989777 2017] [:error] [pid 24109] [client 2400:cb00:71:1024::a29e:574c:38388] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Mon Jul 10 14:43:51.702492 2017] [:error] [pid 24115] [client 2400:cb00:16:1024::ac44:4065:19574] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Wed Jul 12 16:27:59.837795 2017] [:error] [pid 24109] [client 2400:cb00:14:1024::a29e:4950:55176] script '/var/www/glad.softelos.com/llx.php' not found or unable to stat
+[Wed Jul 12 17:48:47.500146 2017] [:error] [pid 24112] [client 2400:cb00:16:1024::ac44:4077:12553] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue Jul 18 03:16:34.748582 2017] [:error] [pid 8142] [client 2400:cb00:71:1024::a29e:574c:17074] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Tue Jul 18 03:16:34.997907 2017] [:error] [pid 12427] [client 2400:cb00:71:1024::a29e:574c:17474] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Tue Jul 18 05:03:57.248958 2017] [:error] [pid 8147] [client 2400:cb00:71:1024::a29e:53f9:32367] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue Jul 18 09:34:24.298829 2017] [:error] [pid 8143] [client 2400:cb00:71:1024::a29e:559c:37636] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Wed Jul 19 15:22:15.407069 2017] [:error] [pid 8099] [client 2400:cb00:71:1024::a29e:53f9:61182] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Jul 20 02:12:18.138962 2017] [:error] [pid 12428] [client 2400:cb00:71:1024::a29e:53f9:41988] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Jul 20 02:12:19.933895 2017] [:error] [pid 12426] [client 2400:cb00:71:1024::a29e:53f9:42408] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu Jul 20 02:12:20.122706 2017] [:error] [pid 8145] [client 2400:cb00:71:1024::a29e:53f9:42484] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat Jul 22 06:53:57.012701 2017] [:error] [pid 8144] [client 2400:cb00:78:1024::a29e:e92c:54366] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sat Jul 22 06:54:11.407938 2017] [:error] [pid 8149] [client 2400:cb00:78:1024::a29e:e92c:56604] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sun Jul 23 00:22:04.271151 2017] [:error] [pid 8144] [client 2400:cb00:71:1024::a29e:574c:49650] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sun Jul 23 00:22:04.513236 2017] [:error] [pid 8149] [client 2400:cb00:71:1024::a29e:574c:49700] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Tue Jul 25 22:05:33.325317 2017] [:error] [pid 27719] [client 2400:cb00:132:1024::ac44:ed5e:28549] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sun Jul 30 00:23:02.705415 2017] [:error] [pid 27725] [client 2400:cb00:16:1024::a29e:4d88:41108] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sun Jul 30 00:23:03.184218 2017] [:error] [pid 6021] [client 2400:cb00:16:1024::a29e:4d88:41372] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Jul 30 00:23:03.254522 2017] [:error] [pid 27723] [client 2400:cb00:16:1024::a29e:4d88:41380] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Aug 02 04:18:26.264021 2017] [:error] [pid 7075] [client 2400:cb00:71:1024::a29e:559c:15322] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Aug 03 15:31:08.393387 2017] [:error] [pid 7076] [client 2400:cb00:14:1024::a29e:4838:61330] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Aug 03 15:31:09.005367 2017] [:error] [pid 7078] [client 2400:cb00:14:1024::a29e:4838:61452] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu Aug 03 15:31:09.074097 2017] [:error] [pid 7075] [client 2400:cb00:14:1024::a29e:4838:61474] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Fri Aug 04 09:11:29.008330 2017] [:error] [pid 7072] [client 2400:cb00:71:1024::a29e:574c:21481] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Aug 04 09:11:29.405721 2017] [:error] [pid 7029] [client 2400:cb00:71:1024::a29e:574c:21656] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Aug 05 09:36:13.298659 2017] [:error] [pid 10590] [client 2400:cb00:16:1024::a29e:4d88:54474] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Aug 05 09:36:13.777471 2017] [:error] [pid 7075] [client 2400:cb00:16:1024::a29e:4d88:54744] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat Aug 05 09:36:13.837659 2017] [:error] [pid 7080] [client 2400:cb00:16:1024::a29e:4d88:54878] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon Aug 07 06:43:39.469021 2017] [:error] [pid 21000] [client 2400:cb00:20:1024::8d65:4026:40314] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue Aug 08 20:59:58.309541 2017] [:error] [pid 23065] [client 2400:cb00:14:1024::a29e:4998:27039] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Tue Aug 08 20:59:58.980317 2017] [:error] [pid 20995] [client 2400:cb00:14:1024::a29e:4998:27145] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Fri Aug 11 08:59:58.570216 2017] [:error] [pid 20954] [client 2400:cb00:78:1024::a29e:ea57:20667] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Fri Aug 11 09:02:04.110187 2017] [:error] [pid 23064] [client 2400:cb00:12:1024::a29e:38b6:52760] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Fri Aug 11 09:02:05.508322 2017] [:error] [pid 20953] [client 2400:cb00:12:1024::a29e:38b6:53224] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Fri Aug 11 09:02:05.650472 2017] [:error] [pid 20952] [client 2400:cb00:12:1024::a29e:38b6:53246] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Aug 13 22:45:02.714694 2017] [:error] [pid 23063] [client 2400:cb00:71:1024::a29e:574c:35562] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sun Aug 13 22:45:02.972085 2017] [:error] [pid 20997] [client 2400:cb00:71:1024::a29e:574c:35594] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Mon Aug 14 19:44:42.035885 2017] [:error] [pid 8030] [client 2400:cb00:14:1024::ac44:3886:42946] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Mon Aug 14 19:44:42.149117 2017] [:error] [pid 7981] [client 2400:cb00:14:1024::ac44:3886:42970] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Wed Aug 16 09:02:22.664289 2017] [:error] [pid 10045] [client 2400:cb00:39:1024::bc72:668c:54900] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Wed Aug 16 09:31:05.744105 2017] [:error] [pid 10050] [client 2400:cb00:39:1024::bc72:668c:13554] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Wed Aug 16 09:31:07.781376 2017] [:error] [pid 7982] [client 2400:cb00:39:1024::bc72:668c:14872] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Aug 16 09:31:07.985457 2017] [:error] [pid 9807] [client 2400:cb00:39:1024::bc72:668c:14975] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Aug 16 21:18:16.536881 2017] [:error] [pid 9805] [client 2400:cb00:39:1024::bc72:668c:38160] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Aug 16 21:18:17.384438 2017] [:error] [pid 8023] [client 2400:cb00:39:1024::bc72:668c:38268] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu Aug 17 10:57:19.846029 2017] [:error] [pid 10047] [client 2400:cb00:71:1024::a29e:574c:12185] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Aug 17 10:57:20.380073 2017] [:error] [pid 8027] [client 2400:cb00:71:1024::a29e:574c:12453] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Aug 17 22:53:23.007971 2017] [:error] [pid 8132] [client 2400:cb00:71:1024::a29e:574c:27532] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Aug 17 22:53:23.262711 2017] [:error] [pid 8026] [client 2400:cb00:71:1024::a29e:574c:27588] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Aug 18 07:57:15.007107 2017] [:error] [pid 8030] [client 2400:cb00:19:1024::a29e:c01a:40068] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Fri Aug 18 10:31:46.708507 2017] [:error] [pid 10047] [client 2400:cb00:14:1024::ac44:3886:40752] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Fri Aug 18 10:31:46.848237 2017] [:error] [pid 8024] [client 2400:cb00:14:1024::ac44:3886:41042] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Fri Aug 25 19:22:30.253000 2017] [:error] [pid 21024] [client 2400:cb00:15:1024::a29e:4492:52848] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat, referer: http://softelos.com/xmlrpc.php
+[Sat Aug 26 14:40:21.656927 2017] [:error] [pid 20979] [client 2400:cb00:28:1024::6ca2:f42e:61709] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sun Aug 27 19:12:56.795394 2017] [:error] [pid 21023] [client 2400:cb00:28:1024::6ca2:f42e:25107] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon Aug 28 00:09:24.402580 2017] [:error] [pid 31275] [client 2400:cb00:35:1024::a29e:a25e:21807] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue Aug 29 15:13:45.959819 2017] [:error] [pid 6211] [client 2400:cb00:14:1024::a29e:483e:41583] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Wed Aug 30 09:13:09.984582 2017] [:error] [pid 6257] [client 2400:cb00:50:1024::a29e:111b:46734] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Aug 31 14:06:16.139002 2017] [:error] [pid 6211] [client 2400:cb00:14:1024::ac44:384a:24661] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Thu Aug 31 14:06:16.207625 2017] [:error] [pid 6252] [client 2400:cb00:14:1024::ac44:384a:24681] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Fri Sep 01 02:13:41.283042 2017] [:error] [pid 6255] [client 2400:cb00:28:1024::a29e:6838:58872] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon Sep 04 19:39:10.212876 2017] [:error] [pid 19563] [client 2400:cb00:71:1024::a29e:52b0:25539] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Mon Sep 04 19:39:16.157708 2017] [:error] [pid 19562] [client 2400:cb00:71:1024::a29e:52b0:27562] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Mon Sep 04 23:46:36.742179 2017] [:error] [pid 19514] [client 2400:cb00:14:1024::6ca2:d94a:14498] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon Sep 04 23:46:37.537970 2017] [:error] [pid 19565] [client 2400:cb00:14:1024::6ca2:d94a:14638] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon Sep 04 23:46:37.618092 2017] [:error] [pid 23334] [client 2400:cb00:14:1024::6ca2:d94a:14644] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu Sep 07 14:09:34.610904 2017] [:error] [pid 19562] [client 2400:cb00:14:1024::ac44:381a:32792] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Thu Sep 07 14:09:34.715072 2017] [:error] [pid 19513] [client 2400:cb00:14:1024::ac44:381a:32834] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Fri Sep 08 15:51:54.543877 2017] [:error] [pid 19515] [client 2400:cb00:20:1024::a29e:6e1b:14901] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Sep 09 16:44:31.275660 2017] [:error] [pid 19514] [client 2400:cb00:19:1024::8d65:42bc:22178] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat Sep 09 16:44:31.638736 2017] [:error] [pid 20762] [client 2400:cb00:19:1024::6ca2:e45c:19068] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Sep 10 00:02:28.717685 2017] [:error] [pid 23335] [client 2400:cb00:19:1024::6ca2:e45c:12374] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sun Sep 10 00:02:42.185128 2017] [:error] [pid 19560] [client 2400:cb00:19:1024::6ca2:e45c:15636] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Sep 10 00:02:42.454526 2017] [:error] [pid 19613] [client 2400:cb00:19:1024::6ca2:e45c:15666] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Sep 10 17:17:44.226895 2017] [:error] [pid 19564] [client 2400:cb00:19:1024::6ca2:e45c:56338] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sun Sep 10 17:17:45.855250 2017] [:error] [pid 19613] [client 2400:cb00:19:1024::6ca2:e45c:56604] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Sep 10 17:17:46.037551 2017] [:error] [pid 19513] [client 2400:cb00:19:1024::6ca2:e45c:56641] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu Sep 14 14:04:10.203636 2017] [:error] [pid 5771] [client 2400:cb00:70:1024::a29e:7d52:10140] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue Sep 19 23:44:39.176408 2017] [:error] [pid 17056] [client 2400:cb00:71:1024::a29e:55de:48756] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Tue Sep 19 23:44:39.540898 2017] [:error] [pid 17058] [client 2400:cb00:71:1024::a29e:55de:48850] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Sep 22 02:12:19.016304 2017] [:error] [pid 17058] [client 2400:cb00:12:1024::ac44:2dc2:10490] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Fri Sep 22 02:12:19.440149 2017] [:error] [pid 17102] [client 2400:cb00:12:1024::ac44:2dc2:10681] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Fri Sep 22 12:37:33.262740 2017] [:error] [pid 17055] [client 2400:cb00:71:1024::a29e:55de:26992] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Sep 22 12:37:33.598958 2017] [:error] [pid 17388] [client 2400:cb00:71:1024::a29e:55de:27071] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Sep 23 15:14:28.717035 2017] [:error] [pid 17102] [client 2400:cb00:71:1024::a29e:55de:37839] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Sep 23 15:14:31.209716 2017] [:error] [pid 17056] [client 2400:cb00:71:1024::a29e:55de:38728] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sun Sep 24 15:17:14.616516 2017] [:error] [pid 17103] [client 2400:cb00:19:1024::8d65:445c:16256] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sun Sep 24 15:17:16.407548 2017] [:error] [pid 17055] [client 2400:cb00:19:1024::8d65:445c:16917] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Sep 24 15:17:16.615562 2017] [:error] [pid 17388] [client 2400:cb00:19:1024::8d65:445c:16962] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Tue Sep 26 12:16:00.113222 2017] [:error] [pid 757] [client 2400:cb00:71:1024::a29e:524a:42276] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Tue Sep 26 12:16:03.243374 2017] [:error] [pid 758] [client 2400:cb00:71:1024::a29e:524a:45036] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Tue Sep 26 13:43:06.748213 2017] [:error] [pid 764] [client 2400:cb00:125:1024::ac44:950e:60768] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Tue Sep 26 13:43:06.839666 2017] [:error] [pid 716] [client 2400:cb00:125:1024::ac44:950e:60778] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Tue Sep 26 21:36:10.577251 2017] [:error] [pid 714] [client 2400:cb00:14:1024::a29e:48aa:21687] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue Sep 26 21:36:11.631024 2017] [:error] [pid 764] [client 2400:cb00:14:1024::a29e:48aa:22228] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Tue Sep 26 21:36:11.739909 2017] [:error] [pid 716] [client 2400:cb00:14:1024::a29e:48aa:22238] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Sep 27 01:57:38.726364 2017] [:error] [pid 759] [client 2400:cb00:14:1024::a29e:48aa:49206] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Wed Sep 27 01:57:39.363159 2017] [:error] [pid 717] [client 2400:cb00:14:1024::a29e:48aa:49320] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Sep 27 01:57:39.433491 2017] [:error] [pid 757] [client 2400:cb00:14:1024::a29e:48aa:49334] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Sep 27 08:12:44.942488 2017] [:error] [pid 760] [client 2400:cb00:87:1024::ac44:e65:39596] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu Sep 28 20:51:42.663337 2017] [:error] [pid 757] [client 2400:cb00:28:1024::a29e:6920:45770] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Sep 28 20:51:44.782436 2017] [:error] [pid 758] [client 2400:cb00:28:1024::a29e:6920:46466] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu Sep 28 20:51:44.938102 2017] [:error] [pid 717] [client 2400:cb00:28:1024::a29e:6920:46494] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Fri Sep 29 06:14:29.555841 2017] [:error] [pid 763] [client 2400:cb00:71:1024::a29e:524a:39224] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Sep 29 06:14:30.033781 2017] [:error] [pid 760] [client 2400:cb00:71:1024::a29e:524a:39558] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Sep 29 07:14:35.590357 2017] [:error] [pid 715] [client 2400:cb00:73:1024::a29e:650f:41734] script '/var/www/glad.softelos.com/LICENSE.php' not found or unable to stat
+[Sat Sep 30 11:16:23.563928 2017] [:error] [pid 716] [client 2400:cb00:12:1024::ac44:2c56:49608] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat, referer: http://softelos.com/xmlrpc.php
+[Sun Oct 01 02:14:11.681378 2017] [:error] [pid 717] [client 2400:cb00:73:1024::a29e:650f:36694] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Oct 05 13:06:28.168980 2017] [:error] [pid 13663] [client 2400:cb00:28:1024::a29e:6920:23112] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Fri Oct 06 08:15:24.774641 2017] [:error] [pid 13654] [client 2400:cb00:28:1024::a29e:6920:35144] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue Oct 10 16:44:38.040213 2017] [:error] [pid 1688] [client 2400:cb00:87:1024::ac44:eb3:36924] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Oct 13 05:54:24.621457 2017] [:error] [pid 5474] [client 2400:cb00:71:1024::a29e:524a:22298] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Oct 13 05:54:24.859964 2017] [:error] [pid 1696] [client 2400:cb00:71:1024::a29e:524a:22446] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Oct 14 11:58:51.316835 2017] [:error] [pid 1690] [client 2400:cb00:28:1024::a29e:684a:53788] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon Oct 16 10:06:33.721762 2017] [:error] [pid 14705] [client 2400:cb00:71:1024::a29e:52b0:56685] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Mon Oct 16 10:06:34.499097 2017] [:error] [pid 14711] [client 2400:cb00:71:1024::a29e:52b0:57498] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Tue Oct 17 06:26:00.198256 2017] [:error] [pid 16638] [client 2400:cb00:125:1024::ac44:9520:43756] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Tue Oct 17 06:26:00.753512 2017] [:error] [pid 14707] [client 2400:cb00:125:1024::ac44:9520:43842] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Tue Oct 17 11:21:29.427643 2017] [:error] [pid 14702] [client 2400:cb00:35:1024::a29e:a438:55184] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Tue Oct 17 14:18:51.397029 2017] [:error] [pid 14709] [client 2400:cb00:35:1024::a29e:a1a4:10742] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Fri Oct 20 15:20:11.777444 2017] [:error] [pid 14709] [client 2400:cb00:71:1024::a29e:5230:61802] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Oct 20 15:20:12.027860 2017] [:error] [pid 14702] [client 2400:cb00:71:1024::a29e:5230:61888] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Oct 21 08:09:32.322652 2017] [:error] [pid 14709] [client 2400:cb00:71:1024::a29e:5ba1:29694] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Oct 21 08:09:36.050281 2017] [:error] [pid 14705] [client 2400:cb00:71:1024::a29e:5ba1:30764] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Oct 21 17:04:12.634426 2017] [:error] [pid 14709] [client 2400:cb00:71:1024::a29e:5ba1:35694] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Oct 21 17:04:12.858815 2017] [:error] [pid 14705] [client 2400:cb00:71:1024::a29e:5ba1:35708] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sun Oct 22 11:22:09.685006 2017] [:error] [pid 14658] [client 2400:cb00:71:1024::a29e:5280:24898] script '/var/www/glad.softelos.com/.index.php' not found or unable to stat
+[Sun Oct 22 11:28:22.592207 2017] [:error] [pid 14701] [client 2400:cb00:71:1024::a29e:5280:54996] script '/var/www/glad.softelos.com/.index.php' not found or unable to stat
+[Sun Oct 22 16:33:18.784645 2017] [:error] [pid 14710] [client 2400:cb00:70:1024::a29e:7d52:28870] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Oct 22 16:33:19.078453 2017] [:error] [pid 14658] [client 2400:cb00:70:1024::a29e:7d52:28948] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Tue Oct 24 15:14:53.658617 2017] [:error] [pid 2584] [client 2400:cb00:132:1024::ac44:ed34:29592] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue Oct 24 18:57:45.869092 2017] [:error] [pid 2588] [client 2400:cb00:20:1024::a29e:6ce0:51218] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Tue Oct 24 18:58:05.574950 2017] [:error] [pid 2591] [client 2400:cb00:20:1024::a29e:6ce0:57654] script '/var/www/glad.softelos.com/admin.php' not found or unable to stat
+[Thu Oct 26 06:46:40.762172 2017] [:error] [pid 2587] [client 2400:cb00:125:1024::ac44:9520:17848] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Thu Oct 26 06:46:40.984354 2017] [:error] [pid 2590] [client 2400:cb00:125:1024::ac44:9520:17876] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sun Oct 29 04:55:54.168860 2017] [:error] [pid 2591] [client 2400:cb00:87:1024::ac44:91d:48882] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sun Oct 29 04:55:54.449998 2017] [:error] [pid 2592] [client 2400:cb00:87:1024::ac44:91d:48936] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sun Oct 29 10:16:16.075802 2017] [:error] [pid 23151] [client 2400:cb00:22:1024::a29e:756f:23182] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon Oct 30 12:10:03.262984 2017] [:error] [pid 23157] [client 2400:cb00:87:1024::ac44:c10:36838] script '/var/www/glad.softelos.com/dumper.php' not found or unable to stat
+[Mon Oct 30 18:14:10.667902 2017] [:error] [pid 23153] [client 2400:cb00:125:1024::ac44:953f:17144] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Mon Oct 30 18:14:10.746116 2017] [:error] [pid 25047] [client 2400:cb00:125:1024::ac44:953f:17166] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Thu Nov 02 05:46:56.859458 2017] [:error] [pid 23165] [client 2400:cb00:20:1024::a29e:6c0e:15580] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Nov 02 18:21:18.503236 2017] [:error] [pid 23152] [client 2400:cb00:17:1024::6ca2:d5ec:14660] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Nov 02 18:21:20.578943 2017] [:error] [pid 23156] [client 2400:cb00:17:1024::6ca2:d5ec:15398] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu Nov 02 18:21:20.727392 2017] [:error] [pid 23165] [client 2400:cb00:17:1024::6ca2:d5ec:15442] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat Nov 04 12:45:24.681653 2017] [:error] [pid 23161] [client 2400:cb00:11:1024::6ca2:daed:51284] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Nov 04 12:45:25.701558 2017] [:error] [pid 23162] [client 2400:cb00:11:1024::6ca2:daed:51630] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat Nov 04 12:45:25.725915 2017] [:error] [pid 23155] [client 2400:cb00:11:1024::6ca2:daed:51638] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Tue Nov 07 16:42:44.686971 2017] [:error] [pid 8648] [client 2400:cb00:87:1024::ac44:91d:26962] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Tue Nov 07 16:42:45.493934 2017] [:error] [pid 8188] [client 2400:cb00:87:1024::ac44:91d:27162] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Nov 09 11:07:37.227247 2017] [:error] [pid 8699] [client 2400:cb00:125:1024::ac44:9538:34908] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Thu Nov 09 11:07:37.301596 2017] [:error] [pid 8144] [client 2400:cb00:125:1024::ac44:9538:34922] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Mon Nov 13 07:39:40.384909 2017] [:error] [pid 25619] [client 2400:cb00:125:1024::ac44:9627:47942] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon Nov 13 07:40:02.059913 2017] [:error] [pid 25643] [client 2400:cb00:125:1024::ac44:9627:50590] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon Nov 13 07:40:05.154871 2017] [:error] [pid 25578] [client 2400:cb00:125:1024::ac44:9627:50960] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon Nov 13 10:04:50.340280 2017] [:error] [pid 25621] [client 2400:cb00:125:1024::ac44:953f:50706] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Mon Nov 13 10:04:50.408730 2017] [:error] [pid 25622] [client 2400:cb00:125:1024::ac44:953f:50712] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Tue Nov 14 09:44:17.952828 2017] [:error] [pid 26407] [client 2400:cb00:71:1024::a29e:5f30:52988] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Tue Nov 14 09:44:18.347895 2017] [:error] [pid 25621] [client 2400:cb00:71:1024::a29e:5f30:53062] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Tue Nov 14 21:57:01.383519 2017] [:error] [pid 25622] [client 2400:cb00:11:1024::a29e:3c9f:46540] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Wed Nov 15 06:13:44.879002 2017] [:error] [pid 25621] [client 2400:cb00:11:1024::a29e:3c9f:55184] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Wed Nov 15 06:13:45.531674 2017] [:error] [pid 25576] [client 2400:cb00:11:1024::a29e:3c9f:55502] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Nov 15 06:13:45.626875 2017] [:error] [pid 25577] [client 2400:cb00:11:1024::a29e:3c9f:55544] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Nov 15 14:51:19.680033 2017] [:error] [pid 25643] [client 2400:cb00:87:1024::ac44:f493:29878] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Wed Nov 15 14:51:19.937324 2017] [:error] [pid 25624] [client 2400:cb00:87:1024::ac44:f493:29988] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Nov 16 04:44:36.870867 2017] [:error] [pid 25620] [client 2400:cb00:87:1024::ac44:e5c:16118] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Nov 16 04:44:37.172860 2017] [:error] [pid 25619] [client 2400:cb00:87:1024::ac44:e5c:16148] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Nov 16 16:27:13.005874 2017] [:error] [pid 25577] [client 2400:cb00:71:1024::a29e:5687:58520] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Fri Nov 17 04:31:32.627266 2017] [:error] [pid 25578] [client 2400:cb00:71:1024::a29e:5687:41726] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Fri Nov 17 04:31:35.525343 2017] [:error] [pid 25579] [client 2400:cb00:71:1024::a29e:5687:43266] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Fri Nov 17 04:31:35.711813 2017] [:error] [pid 25621] [client 2400:cb00:71:1024::a29e:5687:43302] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Fri Nov 17 12:48:37.827327 2017] [:error] [pid 26407] [client 2400:cb00:125:1024::ac44:953f:30348] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Fri Nov 17 12:48:37.931518 2017] [:error] [pid 25578] [client 2400:cb00:125:1024::ac44:953f:30366] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sun Nov 19 00:23:39.043313 2017] [:error] [pid 7399] [client 2400:cb00:125:1024::ac44:9627:36498] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sun Nov 19 21:12:32.009885 2017] [:error] [pid 10078] [client 2400:cb00:125:1024::ac44:953f:22926] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon Nov 20 04:11:21.778229 2017] [:error] [pid 10077] [client 2400:cb00:125:1024::ac44:953f:56628] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Nov 23 02:18:56.974151 2017] [:error] [pid 10029] [client 2400:cb00:11:1024::c629:eb7e:37280] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Nov 23 23:23:34.215103 2017] [:error] [pid 17752] [client 2400:cb00:11:1024::c629:eb7e:56660] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Nov 23 23:23:34.855095 2017] [:error] [pid 10071] [client 2400:cb00:11:1024::c629:eb7e:56868] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu Nov 23 23:23:34.947967 2017] [:error] [pid 10077] [client 2400:cb00:11:1024::c629:eb7e:56888] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Nov 26 09:23:53.250551 2017] [:error] [pid 26960] [client 2400:cb00:16:1024::a29e:4e1d:23030] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sun Nov 26 14:02:53.154978 2017] [:error] [pid 26961] [client 2400:cb00:71:1024::a29e:5340:65524] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon Nov 27 09:59:58.679916 2017] [:error] [pid 30891] [client 2400:cb00:125:1024::ac44:953f:17462] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Mon Nov 27 09:59:58.754105 2017] [:error] [pid 30790] [client 2400:cb00:125:1024::ac44:953f:17476] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Tue Nov 28 11:15:49.323523 2017] [:error] [pid 30786] [client 2400:cb00:19:1024::8d65:42ec:34060] script '/var/www/glad.softelos.com/dumper.php' not found or unable to stat
+[Fri Dec 01 08:19:53.313981 2017] [:error] [pid 30742] [client 2400:cb00:125:1024::ac44:953f:12066] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Dec 02 10:08:36.060203 2017] [:error] [pid 30743] [client 2400:cb00:20:1024::a29e:6dbb:42940] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Dec 02 10:15:41.809145 2017] [:error] [pid 30792] [client 2400:cb00:20:1024::a29e:6dbb:30206] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat Dec 02 10:15:45.589950 2017] [:error] [pid 8883] [client 2400:cb00:20:1024::a29e:6dbb:31820] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat Dec 02 12:26:16.216683 2017] [:error] [pid 30742] [client 2400:cb00:125:1024::ac44:953f:21460] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sun Dec 03 08:08:22.352897 2017] [:error] [pid 12359] [client 2400:cb00:87:1024::ac44:e0e:47106] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sun Dec 03 08:08:22.752622 2017] [:error] [pid 12357] [client 2400:cb00:87:1024::ac44:e0e:47144] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sun Dec 03 19:23:14.417728 2017] [:error] [pid 12906] [client 2400:cb00:20:1024::8d65:4bcd:33458] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sun Dec 03 19:23:16.164234 2017] [:error] [pid 12405] [client 2400:cb00:20:1024::8d65:4bcd:34038] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Dec 03 19:23:16.342169 2017] [:error] [pid 12905] [client 2400:cb00:20:1024::8d65:4bcd:34048] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon Dec 04 20:41:36.129780 2017] [:error] [pid 12905] [client 2400:cb00:132:1024::ac44:ed5e:23454] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon Dec 04 20:41:36.490491 2017] [:error] [pid 12405] [client 2400:cb00:132:1024::ac44:ed5e:23480] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Tue Dec 05 13:18:48.806459 2017] [:error] [pid 12908] [client 2400:cb00:14:1024::a29e:490a:24278] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Dec 07 14:25:15.412908 2017] [:error] [pid 12360] [client 2400:cb00:125:1024::ac44:9535:17020] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon Dec 11 10:36:45.919109 2017] [:error] [pid 28664] [client 2400:cb00:125:1024::ac44:963d:24239] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Mon Dec 11 10:36:46.007037 2017] [:error] [pid 28665] [client 2400:cb00:125:1024::ac44:963d:27269] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Mon Dec 11 19:31:27.892156 2017] [:error] [pid 28669] [client 2400:cb00:125:1024::ac44:964f:27317] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Mon Dec 11 19:31:28.149109 2017] [:error] [pid 28670] [client 2400:cb00:125:1024::ac44:964f:18463] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Wed Dec 13 12:10:29.873990 2017] [:error] [pid 3887] [client 2400:cb00:79:1024::a29e:eea2:22615] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Wed Dec 13 12:10:31.564731 2017] [:error] [pid 3892] [client 2400:cb00:79:1024::a29e:eea2:21943] script '/var/www/glad.softelos.com/admin.php' not found or unable to stat
+[Wed Dec 13 12:10:31.993468 2017] [:error] [pid 3891] [client 2400:cb00:79:1024::a29e:eea2:25269] script '/var/www/glad.softelos.com/admin.php' not found or unable to stat
+[Wed Dec 13 12:10:32.794423 2017] [:error] [pid 3894] [client 2400:cb00:79:1024::a29e:eea2:20809] script '/var/www/glad.softelos.com/admin.php' not found or unable to stat
+[Wed Dec 13 12:10:33.652902 2017] [:error] [pid 3897] [client 2400:cb00:79:1024::a29e:eea2:31375] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu Dec 14 00:53:53.447230 2017] [:error] [pid 3701] [client 2400:cb00:12:1024::a29e:3a8a:26195] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Thu Dec 14 08:35:40.208768 2017] [:error] [pid 3700] [client 2400:cb00:16:1024::ac45:3e3d:30183] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Dec 16 10:30:41.079698 2017] [:error] [pid 3886] [client 2400:cb00:4:1024::ac44:8480:12913] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Dec 16 14:18:23.010156 2017] [:error] [pid 3896] [client 2400:cb00:4:1024::ac44:8480:23539] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sun Dec 17 18:08:46.679086 2017] [:error] [pid 13907] [client 2400:cb00:16:1024::a29e:4fce:28159] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sun Dec 17 18:08:47.140502 2017] [:error] [pid 13906] [client 2400:cb00:16:1024::a29e:4fce:10703] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Dec 17 18:08:47.202461 2017] [:error] [pid 13905] [client 2400:cb00:16:1024::a29e:4fce:35671] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Dec 20 15:02:23.500722 2017] [:error] [pid 18238] [client 2400:cb00:35:1024::ac44:904c:27689] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Dec 21 07:13:17.088629 2017] [:error] [pid 18246] [client 2400:cb00:16:1024::a29e:4f1a:17879] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Dec 21 18:37:46.038803 2017] [:error] [pid 18249] [client 2400:cb00:16:1024::ac45:3e19:18531] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Dec 21 19:48:51.126351 2017] [:error] [pid 18250] [client 2400:cb00:14:1024::a29e:4af6:25999] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Dec 21 19:48:51.748252 2017] [:error] [pid 18241] [client 2400:cb00:14:1024::a29e:4af6:24051] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu Dec 21 19:48:51.824741 2017] [:error] [pid 18239] [client 2400:cb00:14:1024::a29e:4af6:18197] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat Dec 23 09:25:11.807484 2017] [:error] [pid 13907] [client 2400:cb00:71:1024::a29e:5811:28909] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Dec 23 09:25:21.345550 2017] [:error] [pid 18249] [client 2400:cb00:71:1024::a29e:5811:19663] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sun Dec 24 00:14:16.876995 2017] [:error] [pid 14449] [client 2400:cb00:125:1024::ac44:963d:22851] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sun Dec 24 00:14:16.949949 2017] [:error] [pid 13906] [client 2400:cb00:125:1024::ac44:963d:35653] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Mon Dec 25 01:15:21.996190 2017] [:error] [pid 27384] [client 2400:cb00:71:1024::a29e:5c61:28087] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Mon Dec 25 01:15:22.229487 2017] [:error] [pid 27385] [client 2400:cb00:71:1024::a29e:5c61:18835] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Tue Dec 26 15:38:29.402464 2017] [:error] [pid 29464] [client 2400:cb00:125:1024::ac44:960d:16949] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Tue Dec 26 15:38:29.472776 2017] [:error] [pid 27383] [client 2400:cb00:125:1024::ac44:960d:29975] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Wed Dec 27 01:28:34.312013 2017] [:error] [pid 29464] [client 2400:cb00:15:1024::ac45:45c1:23951] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Fri Dec 29 04:01:34.298133 2017] [:error] [pid 31449] [client 2400:cb00:16:1024::ac45:3ea3:12311] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sun Dec 31 16:30:09.098537 2017] [:error] [pid 31443] [client 2400:cb00:4:1024::ac44:8d19:19517] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue Jan 02 02:15:28.456974 2018] [:error] [pid 9505] [client 2400:cb00:71:1024::a29e:5c61:23315] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Tue Jan 02 02:15:28.787408 2018] [:error] [pid 9502] [client 2400:cb00:71:1024::a29e:5c61:16935] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Tue Jan 02 16:08:00.897781 2018] [:error] [pid 9505] [client 2400:cb00:35:1024::ac44:90b2:12193] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Wed Jan 03 05:56:54.713732 2018] [:error] [pid 9545] [client 2400:cb00:35:1024::ac44:90b2:30625] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Jan 04 04:40:11.160970 2018] [:error] [pid 9546] [client 2400:cb00:4:1024::ac44:bdfa:37245] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Jan 04 13:21:17.215268 2018] [:error] [pid 9550] [client 2400:cb00:125:1024::ac44:962b:32175] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Jan 04 13:21:36.258001 2018] [:error] [pid 9706] [client 2400:cb00:125:1024::ac44:962b:18677] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu Jan 04 13:21:39.336727 2018] [:error] [pid 9546] [client 2400:cb00:125:1024::ac44:962b:16065] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Fri Jan 05 06:42:18.673152 2018] [:error] [pid 9551] [client 2400:cb00:26:1024::6ca2:f9c7:32873] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Jan 06 04:12:32.222072 2018] [:error] [pid 9706] [client 2400:cb00:87:1024::ac44:f6ef:26423] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Jan 06 04:12:32.875526 2018] [:error] [pid 9505] [client 2400:cb00:87:1024::ac44:f6ef:14703] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Jan 06 04:15:00.336279 2018] [:error] [pid 9503] [client 2400:cb00:87:1024::ac44:f6ef:12865] script '/var/www/glad.softelos.com/admin.php' not found or unable to stat
+[Sat Jan 06 04:15:00.351445 2018] [:error] [pid 12477] [client 2400:cb00:87:1024::ac44:f6ef:16701] script '/var/www/glad.softelos.com/admin.php' not found or unable to stat
+[Sat Jan 06 04:30:46.227437 2018] [:error] [pid 9545] [client 2400:cb00:71:1024::a29e:58e3:31955] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Jan 06 04:30:46.260743 2018] [:error] [pid 9546] [client 2400:cb00:71:1024::a29e:58e3:33081] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Jan 06 04:32:16.193772 2018] [:error] [pid 9551] [client 2400:cb00:71:1024::a29e:58e3:16153] script '/var/www/glad.softelos.com/admin.php' not found or unable to stat
+[Sat Jan 06 04:32:16.208255 2018] [:error] [pid 9505] [client 2400:cb00:71:1024::a29e:58e3:24983] script '/var/www/glad.softelos.com/admin.php' not found or unable to stat
+[Sat Jan 06 04:47:46.183469 2018] [:error] [pid 9548] [client 2400:cb00:87:1024::ac44:ac7:34965] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Jan 06 04:47:46.286037 2018] [:error] [pid 19059] [client 2400:cb00:87:1024::ac44:ac7:13933] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Jan 06 04:49:29.085398 2018] [:error] [pid 9545] [client 2400:cb00:87:1024::ac44:ac7:26513] script '/var/www/glad.softelos.com/admin.php' not found or unable to stat
+[Sat Jan 06 04:49:29.100143 2018] [:error] [pid 9546] [client 2400:cb00:87:1024::ac44:ac7:30925] script '/var/www/glad.softelos.com/admin.php' not found or unable to stat
+[Sat Jan 06 04:57:00.891574 2018] [:error] [pid 9552] [client 2400:cb00:71:1024::a29e:5d06:12267] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Jan 06 04:57:01.421449 2018] [:error] [pid 9547] [client 2400:cb00:71:1024::a29e:5d06:13663] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Jan 06 05:01:55.746260 2018] [:error] [pid 9502] [client 2400:cb00:71:1024::a29e:5d06:24013] script '/var/www/glad.softelos.com/admin.php' not found or unable to stat
+[Sat Jan 06 05:01:55.758448 2018] [:error] [pid 9545] [client 2400:cb00:71:1024::a29e:5d06:34701] script '/var/www/glad.softelos.com/admin.php' not found or unable to stat
+[Sat Jan 06 05:12:44.282482 2018] [:error] [pid 9503] [client 2400:cb00:71:1024::a29e:5a75:10881] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Jan 06 05:12:45.003058 2018] [:error] [pid 9552] [client 2400:cb00:71:1024::a29e:5a75:34133] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Jan 06 05:16:19.346473 2018] [:error] [pid 9547] [client 2400:cb00:71:1024::a29e:5a75:17199] script '/var/www/glad.softelos.com/admin.php' not found or unable to stat
+[Sat Jan 06 05:16:19.418481 2018] [:error] [pid 9548] [client 2400:cb00:71:1024::a29e:5a75:17323] script '/var/www/glad.softelos.com/admin.php' not found or unable to stat
+[Sun Jan 07 18:08:42.819055 2018] [:error] [pid 21541] [client 2400:cb00:16:1024::ac45:3eaf:35785] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sun Jan 07 18:08:43.734592 2018] [:error] [pid 21498] [client 2400:cb00:16:1024::ac45:3eaf:12439] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Jan 07 18:08:43.802220 2018] [:error] [pid 21500] [client 2400:cb00:16:1024::ac45:3eaf:17465] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu Jan 11 04:10:03.844974 2018] [:error] [pid 29559] [client 2400:cb00:16:1024::a29e:4e97:21649] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: https://google.com
+[Fri Jan 12 07:11:02.873019 2018] [:error] [pid 29559] [client 2400:cb00:23:1024::ac44:fdda:12711] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Jan 13 15:02:34.577828 2018] [:error] [pid 21544] [client 2400:cb00:4:1024::ac44:8587:28037] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: https://google.com
+[Sat Jan 13 16:50:51.180074 2018] [:error] [pid 29556] [client 2400:cb00:21:1024::8d65:63b6:17601] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon Jan 15 12:02:53.181470 2018] [:error] [pid 6911] [client 2400:cb00:16:1024::a29e:4fbc:32457] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon Jan 15 12:02:53.689584 2018] [:error] [pid 6908] [client 2400:cb00:16:1024::a29e:4fbc:29577] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon Jan 15 12:02:53.786642 2018] [:error] [pid 6909] [client 2400:cb00:16:1024::a29e:4fbc:33603] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu Jan 18 06:07:42.380349 2018] [:error] [pid 3812] [client 2400:cb00:20:1024::8d65:4da1:25765] script '/var/www/glad.softelos.com/rep.php' not found or unable to stat
+[Thu Jan 18 06:07:42.649405 2018] [:error] [pid 3813] [client 2400:cb00:20:1024::8d65:4da1:15231] script '/var/www/glad.softelos.com/replace.php' not found or unable to stat
+[Thu Jan 18 13:09:45.303551 2018] [:error] [pid 3810] [client 2400:cb00:73:1024::a29e:66a3:29495] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Thu Jan 18 13:09:45.529014 2018] [:error] [pid 3812] [client 2400:cb00:73:1024::a29e:66a3:10891] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Fri Jan 19 18:49:49.842432 2018] [:error] [pid 3813] [client 2400:cb00:19:1024::6ca2:e5b5:24061] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Fri Jan 19 18:49:51.427673 2018] [:error] [pid 3658] [client 2400:cb00:19:1024::6ca2:e5b5:9269] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Fri Jan 19 18:49:51.591817 2018] [:error] [pid 3803] [client 2400:cb00:19:1024::6ca2:e5b5:36997] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Jan 21 21:25:28.375164 2018] [:error] [pid 10661] [client 2400:cb00:19:1024::6ca2:e5b5:11745] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Jan 21 21:25:28.577964 2018] [:error] [pid 10662] [client 2400:cb00:19:1024::6ca2:e5b5:11511] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Jan 21 21:25:29.362223 2018] [:error] [pid 10665] [client 2400:cb00:19:1024::6ca2:e5b5:11921] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Jan 21 21:25:29.562959 2018] [:error] [pid 10617] [client 2400:cb00:19:1024::6ca2:e5b5:35667] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat Jan 27 17:36:37.990317 2018] [:error] [pid 10616] [client 2400:cb00:16:1024::a29e:4f9e:24631] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sun Jan 28 07:32:23.001473 2018] [:error] [pid 25294] [client 2400:cb00:71:1024::a29e:58d7:29291] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sun Jan 28 07:32:23.231303 2018] [:error] [pid 25292] [client 2400:cb00:71:1024::a29e:58d7:14719] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Mon Jan 29 16:33:23.040089 2018] [:error] [pid 25337] [client 2400:cb00:114:1024::ac44:3337:24843] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Mon Jan 29 16:33:27.328875 2018] [:error] [pid 25340] [client 2400:cb00:114:1024::ac44:3337:31045] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Wed Jan 31 03:20:52.526093 2018] [:error] [pid 25339] [client 2400:cb00:71:1024::a29e:5964:14345] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Wed Jan 31 03:20:52.802856 2018] [:error] [pid 25465] [client 2400:cb00:71:1024::a29e:5964:34261] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Wed Jan 31 18:43:56.986649 2018] [:error] [pid 25335] [client 2400:cb00:4:1024::ac44:8ece:13401] script '/var/www/glad.softelos.com/phpinfo.php' not found or unable to stat
+[Wed Jan 31 22:58:39.994246 2018] [:error] [pid 25340] [client 2400:cb00:70:1024::a29e:7e07:32129] script '/var/www/glad.softelos.com/phpinfo.php' not found or unable to stat
+[Thu Feb 01 08:21:10.459927 2018] [:error] [pid 25294] [client 2400:cb00:71:1024::a29e:5964:25167] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Feb 01 08:21:13.124811 2018] [:error] [pid 25293] [client 2400:cb00:71:1024::a29e:5964:25361] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Feb 02 08:46:52.791027 2018] [:error] [pid 25465] [client 2400:cb00:125:1024::ac44:960d:25469] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Feb 03 13:19:47.309353 2018] [:error] [pid 25337] [client 2400:cb00:26:1024::6ca2:f943:26619] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Feb 03 13:19:51.600866 2018] [:error] [pid 25293] [client 2400:cb00:26:1024::6ca2:f943:12685] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat Feb 03 13:19:52.047481 2018] [:error] [pid 25341] [client 2400:cb00:26:1024::6ca2:f943:18035] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat Feb 03 16:45:28.153589 2018] [:error] [pid 25335] [client 2400:cb00:4:1024::ac44:85ed:13531] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sun Feb 04 14:59:23.685857 2018] [:error] [pid 9540] [client 2400:cb00:71:1024::a29e:5cf1:22209] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sun Feb 04 14:59:23.933096 2018] [:error] [pid 9492] [client 2400:cb00:71:1024::a29e:5cf1:16667] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Wed Feb 07 03:49:15.048607 2018] [:error] [pid 9538] [client 2400:cb00:114:1024::ac44:328b:24119] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Wed Feb 07 03:49:24.138754 2018] [:error] [pid 9540] [client 2400:cb00:114:1024::ac44:328b:14871] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Feb 08 20:53:19.512321 2018] [:error] [pid 9539] [client 2400:cb00:19:1024::8d65:583d:25595] script '/var/www/glad.softelos.com/replace.php' not found or unable to stat
+[Fri Feb 09 14:12:40.195082 2018] [:error] [pid 9490] [client 2400:cb00:4:1024::a29e:ff43:11551] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon Feb 12 22:00:06.149858 2018] [:error] [pid 26852] [client 2400:cb00:67:1024::a29e:7231:27511] script '/var/www/glad.softelos.com/wp-load.php' not found or unable to stat
+[Tue Feb 13 14:06:10.522127 2018] [:error] [pid 27293] [client 2400:cb00:67:1024::a29e:7231:35613] script '/var/www/glad.softelos.com/xmlrpz.php' not found or unable to stat
+[Thu Feb 15 10:12:55.033032 2018] [:error] [pid 26848] [client 2400:cb00:39:1024::bc72:663d:15651] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu Feb 15 10:12:55.474515 2018] [:error] [pid 26849] [client 2400:cb00:39:1024::bc72:663d:30405] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu Feb 15 20:54:42.188919 2018] [:error] [pid 29774] [client 2400:cb00:19:1024::8d65:450c:23301] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu Feb 15 20:54:42.475236 2018] [:error] [pid 30459] [client 2400:cb00:19:1024::8d65:450c:26217] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Fri Feb 16 01:22:21.149917 2018] [:error] [pid 26848] [client 2400:cb00:71:1024::a29e:5c13:22813] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Fri Feb 16 01:22:21.663318 2018] [:error] [pid 26852] [client 2400:cb00:71:1024::a29e:5c13:13223] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Fri Feb 16 23:16:23.552276 2018] [:error] [pid 4584] [client 2400:cb00:19:1024::8d65:583d:35535] script '/var/www/glad.softelos.com/rep.php' not found or unable to stat
+[Sat Feb 17 21:01:46.112706 2018] [:error] [pid 4582] [client 2400:cb00:67:1024::a29e:7231:35353] script '/var/www/glad.softelos.com/consystem.php' not found or unable to stat
+[Mon Feb 19 15:13:01.481036 2018] [:error] [pid 7881] [client 2400:cb00:80:1024::a29e:e05b:35821] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Feb 21 09:26:54.004544 2018] [:error] [pid 7882] [client 2400:cb00:71:1024::a29e:5be0:22071] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Wed Feb 21 09:26:54.556177 2018] [:error] [pid 11571] [client 2400:cb00:71:1024::a29e:5be0:21297] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Thu Feb 22 17:57:51.736082 2018] [:error] [pid 11574] [client 2400:cb00:20:1024::a29e:6fc9:14151] script '/var/www/glad.softelos.com/far.php' not found or unable to stat
+[Mon Feb 26 14:07:38.379720 2018] [:error] [pid 25631] [client 2400:cb00:4:1024::ac44:8daf:34353] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon Feb 26 14:07:41.125991 2018] [:error] [pid 25628] [client 2400:cb00:4:1024::ac44:8daf:32545] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon Feb 26 14:07:41.496447 2018] [:error] [pid 25629] [client 2400:cb00:4:1024::ac44:8daf:37001] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Feb 28 16:06:39.668173 2018] [:error] [pid 25626] [client 2400:cb00:16:1024::adf5:360a:28275] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Wed Feb 28 16:06:40.174690 2018] [:error] [pid 25578] [client 2400:cb00:16:1024::adf5:360a:36339] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Feb 28 16:06:40.235724 2018] [:error] [pid 25580] [client 2400:cb00:16:1024::adf5:360a:11983] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Fri Mar 02 10:25:45.742715 2018] [:error] [pid 25627] [client 2400:cb00:12:1024::ac44:d33d:33725] script '/var/www/glad.softelos.com/upload.php' not found or unable to stat
+[Fri Mar 02 12:32:36.888887 2018] [:error] [pid 25625] [client 2400:cb00:71:1024::a29e:5c49:35113] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Mar 03 00:27:42.316344 2018] [:error] [pid 25631] [client 2400:cb00:71:1024::a29e:583b:24621] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sat Mar 03 00:27:42.538257 2018] [:error] [pid 25629] [client 2400:cb00:71:1024::a29e:583b:17017] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sat Mar 03 07:15:33.302772 2018] [:error] [pid 25629] [client 2400:cb00:16:1024::a29e:4edf:25801] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Mar 03 07:53:22.096958 2018] [:error] [pid 25629] [client 2400:cb00:16:1024::a29e:4edf:27109] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Mar 03 07:53:22.588026 2018] [:error] [pid 25761] [client 2400:cb00:16:1024::a29e:4edf:24025] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat Mar 03 22:02:44.642410 2018] [:error] [pid 25624] [client 2400:cb00:71:1024::a29e:5c6d:31973] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon Mar 05 13:42:49.065975 2018] [:error] [pid 17782] [client 2400:cb00:20:1024::a29e:6fc9:27807] script '/var/www/glad.softelos.com/log.php' not found or unable to stat
+[Tue Mar 06 08:00:27.344095 2018] [:error] [pid 17783] [client 2400:cb00:12:1024::ac44:2f99:9831] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Tue Mar 06 08:00:29.177207 2018] [:error] [pid 17882] [client 2400:cb00:4:1024::ac44:8da9:13227] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Tue Mar 06 14:04:33.556354 2018] [:error] [pid 17786] [client 2400:cb00:4:1024::ac44:8d4f:19181] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: https://google.com
+[Sat Mar 10 10:23:39.625270 2018] [:error] [pid 17784] [client 2400:cb00:12:1024::6ca2:d7df:12947] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue Mar 13 05:42:41.688242 2018] [:error] [pid 1460] [client 2400:cb00:21:1024::8d65:63e6:22883] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue Mar 13 05:42:43.485501 2018] [:error] [pid 1511] [client 2400:cb00:21:1024::8d65:63e6:33851] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Tue Mar 13 05:42:43.654086 2018] [:error] [pid 3225] [client 2400:cb00:21:1024::8d65:63e6:21305] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Tue Mar 13 09:30:27.647709 2018] [:error] [pid 1506] [client 2400:cb00:19:1024::8d65:58c1:36281] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue Mar 13 17:09:50.105818 2018] [:error] [pid 3224] [client 2400:cb00:20:1024::a29e:6fc9:26043] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Mar 14 21:55:15.244369 2018] [:error] [pid 1639] [client 2400:cb00:21:1024::8d65:63e6:10973] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Mar 15 19:10:18.387889 2018] [:error] [pid 1511] [client 2400:cb00:12:1024::a29e:3b43:29755] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Fri Mar 16 16:01:17.619147 2018] [:error] [pid 1461] [client 2400:cb00:71:1024::a29e:5c6d:29821] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Fri Mar 16 16:03:59.852486 2018] [:error] [pid 3221] [client 2400:cb00:71:1024::a29e:5c85:31929] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Mar 16 16:04:00.096289 2018] [:error] [pid 3228] [client 2400:cb00:71:1024::a29e:5c85:21237] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Mar 17 11:00:04.239320 2018] [:error] [pid 3222] [client 2400:cb00:71:1024::a29e:59be:17277] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sun Mar 18 15:26:03.438584 2018] [:error] [pid 18230] [client 2400:cb00:20:1024::a29e:6fc9:18805] script '/var/www/glad.softelos.com/upload.php' not found or unable to stat
+[Sun Mar 18 19:00:10.073806 2018] [:error] [pid 18278] [client 2400:cb00:19:1024::6ca2:e507:34997] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sun Mar 18 19:00:11.734272 2018] [:error] [pid 18233] [client 2400:cb00:19:1024::6ca2:e507:32351] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Mar 18 19:00:11.906649 2018] [:error] [pid 18277] [client 2400:cb00:19:1024::6ca2:e507:12019] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon Mar 19 01:31:47.887776 2018] [:error] [pid 18278] [client 2400:cb00:20:1024::8d65:4caf:20259] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Mon Mar 19 03:15:08.975341 2018] [:error] [pid 18278] [client 2400:cb00:20:1024::8d65:4caf:29733] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Tue Mar 20 12:51:40.245874 2018] [:error] [pid 18282] [client 2400:cb00:19:1024::6ca2:e507:30257] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue Mar 20 12:51:41.850460 2018] [:error] [pid 18278] [client 2400:cb00:19:1024::6ca2:e507:36093] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Tue Mar 20 12:51:42.021317 2018] [:error] [pid 21697] [client 2400:cb00:19:1024::6ca2:e507:26449] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Mar 21 04:00:06.216748 2018] [:error] [pid 18280] [client 2400:cb00:12:1024::6ca2:d7d3:29393] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Mar 21 04:00:09.786753 2018] [:error] [pid 18279] [client 2400:cb00:12:1024::6ca2:d7d3:17383] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat Mar 24 07:51:07.914717 2018] [:error] [pid 18284] [client 2400:cb00:21:1024::8d65:63e6:26835] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Mar 24 07:51:09.605843 2018] [:error] [pid 23594] [client 2400:cb00:21:1024::8d65:63e6:25721] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat Mar 24 07:51:09.825605 2018] [:error] [pid 18232] [client 2400:cb00:21:1024::8d65:63e6:22533] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon Mar 26 09:07:01.575752 2018] [:error] [pid 5463] [client 2400:cb00:71:1024::a29e:5bce:23109] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Mon Mar 26 09:07:01.826728 2018] [:error] [pid 5462] [client 2400:cb00:71:1024::a29e:5bce:17097] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Tue Mar 27 07:07:34.340472 2018] [:error] [pid 5516] [client 2400:cb00:71:1024::a29e:5af3:26347] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Tue Mar 27 07:07:35.107356 2018] [:error] [pid 5738] [client 2400:cb00:71:1024::a29e:5af3:13707] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Wed Mar 28 09:25:25.535973 2018] [:error] [pid 5513] [client 2400:cb00:114:1024::ac44:33c1:9443] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Wed Mar 28 09:25:25.910462 2018] [:error] [pid 5507] [client 2400:cb00:114:1024::ac44:33c1:35509] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Mar 30 15:07:45.092023 2018] [:error] [pid 5511] [client 2400:cb00:19:1024::6ca2:e543:16481] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Mar 30 20:49:24.189263 2018] [:error] [pid 5507] [client 2400:cb00:19:1024::6ca2:e543:10019] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon Apr 02 12:14:22.801294 2018] [:error] [pid 19652] [client 2400:cb00:71:1024::a29e:5bce:21885] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Mon Apr 02 12:14:24.189882 2018] [:error] [pid 19653] [client 2400:cb00:71:1024::a29e:5bce:27635] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Wed Apr 04 14:26:26.011386 2018] [:error] [pid 19609] [client 2400:cb00:19:1024::8d65:581f:31149] script '/var/www/glad.softelos.com/ckupload.php' not found or unable to stat
+[Tue Apr 10 03:32:28.776258 2018] [:error] [pid 8139] [client 2400:cb00:71:1024::a29e:59dc:15727] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Tue Apr 10 03:32:29.012521 2018] [:error] [pid 8140] [client 2400:cb00:71:1024::a29e:59dc:9701] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Thu Apr 12 11:09:56.756801 2018] [:error] [pid 8140] [client 2400:cb00:114:1024::ac44:32a9:13059] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Apr 12 11:09:56.989084 2018] [:error] [pid 8139] [client 2400:cb00:114:1024::ac44:32a9:17329] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Apr 12 18:05:30.593921 2018] [:error] [pid 8135] [client 2400:cb00:12:1024::6ca2:d791:29619] script '/var/www/glad.softelos.com/license.php' not found or unable to stat, referer: http://softelos.com/wp-admin/
+[Thu Apr 12 18:21:24.452346 2018] [:error] [pid 8093] [client 2400:cb00:12:1024::6ca2:d791:20011] script '/var/www/glad.softelos.com/xb9987.php' not found or unable to stat
+[Thu Apr 12 19:45:27.579813 2018] [:error] [pid 8134] [client 2400:cb00:12:1024::6ca2:d791:33073] script '/var/www/glad.softelos.com/ldp.php' not found or unable to stat
+[Thu Apr 12 22:33:08.767442 2018] [:error] [pid 8092] [client 2400:cb00:71:1024::a29e:5af3:19027] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Apr 12 22:33:09.008143 2018] [:error] [pid 8133] [client 2400:cb00:71:1024::a29e:5af3:19173] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Apr 13 17:52:56.979573 2018] [:error] [pid 9996] [client 2400:cb00:12:1024::6ca2:d791:35381] script '/var/www/glad.softelos.com/license.php' not found or unable to stat, referer: http://softelos.com/wp-admin/
+[Fri Apr 13 18:20:04.268880 2018] [:error] [pid 8092] [client 2400:cb00:12:1024::6ca2:d791:26677] script '/var/www/glad.softelos.com/xb9987.php' not found or unable to stat
+[Fri Apr 13 18:48:11.082275 2018] [:error] [pid 8137] [client 2400:cb00:12:1024::6ca2:d791:27969] script '/var/www/glad.softelos.com/ldp.php' not found or unable to stat
+[Sat Apr 14 18:10:58.885082 2018] [:error] [pid 8135] [client 2400:cb00:12:1024::6ca2:d791:23577] script '/var/www/glad.softelos.com/license.php' not found or unable to stat, referer: http://softelos.com/wp-admin/
+[Sat Apr 14 18:52:10.790671 2018] [:error] [pid 8134] [client 2400:cb00:12:1024::6ca2:d791:12973] script '/var/www/glad.softelos.com/xb9987.php' not found or unable to stat
+[Sat Apr 14 19:21:20.273494 2018] [:error] [pid 8137] [client 2400:cb00:12:1024::6ca2:d791:22459] script '/var/www/glad.softelos.com/ldp.php' not found or unable to stat
+[Sat Apr 14 19:57:15.305549 2018] [:error] [pid 18885] [client 2400:cb00:20:1024::a29e:6f16:11963] script '/var/www/glad.softelos.com/logo_img.php' not found or unable to stat
+[Mon Apr 16 04:38:05.749157 2018] [:error] [pid 21363] [client 2400:cb00:4:1024::ac44:8dc1:12373] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: https://google.com
+[Wed Apr 18 19:08:38.407388 2018] [:error] [pid 21367] [client 2400:cb00:4:1024::ac45:1718:17671] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Wed Apr 18 19:08:48.425063 2018] [:error] [pid 21366] [client 2400:cb00:4:1024::ac45:1718:37263] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Apr 18 19:08:49.414700 2018] [:error] [pid 24206] [client 2400:cb00:4:1024::ac45:1718:16387] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu Apr 19 19:23:02.581047 2018] [:error] [pid 21365] [client 2400:cb00:19:1024::6ca2:e50d:23735] script '/var/www/glad.softelos.com/update.php' not found or unable to stat
+[Mon Apr 23 00:52:03.367602 2018] [:error] [pid 21365] [client 2400:cb00:19:1024::6ca2:e54f:25421] script '/var/www/glad.softelos.com/sitemap.xml.php' not found or unable to stat
+[Mon Apr 23 05:37:32.554903 2018] [:error] [pid 21774] [client 2400:cb00:125:1024::ac44:9631:10491] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon Apr 23 05:37:33.289753 2018] [:error] [pid 21365] [client 2400:cb00:125:1024::ac44:9631:35047] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon Apr 23 05:37:33.368571 2018] [:error] [pid 21368] [client 2400:cb00:125:1024::ac44:9631:12459] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Tue Apr 24 08:49:17.246992 2018] [:error] [pid 8256] [client 2400:cb00:21:1024::8d65:6356:16717] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue Apr 24 08:49:18.879447 2018] [:error] [pid 8253] [client 2400:cb00:21:1024::8d65:6356:22551] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Tue Apr 24 08:49:19.042261 2018] [:error] [pid 8249] [client 2400:cb00:21:1024::8d65:6356:21295] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Fri Apr 27 13:55:30.879438 2018] [:error] [pid 8252] [client 2400:cb00:21:1024::8d65:6356:20345] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Fri Apr 27 13:55:32.606132 2018] [:error] [pid 8257] [client 2400:cb00:21:1024::8d65:6356:14257] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Fri Apr 27 13:55:32.788587 2018] [:error] [pid 8250] [client 2400:cb00:21:1024::8d65:6356:30981] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat Apr 28 11:44:48.099766 2018] [:error] [pid 8249] [client 2400:cb00:12:1024::6ca2:d7b5:26739] script '/var/www/glad.softelos.com/license.php' not found or unable to stat, referer: http://softelos.com/wp-admin/
+[Sat Apr 28 18:28:22.726642 2018] [:error] [pid 8253] [client 2400:cb00:87:1024::ac44:f653:31957] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue May 01 10:39:36.675748 2018] [:error] [pid 23095] [client 2400:cb00:21:1024::8d65:6356:14105] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue May 01 10:39:38.339383 2018] [:error] [pid 23091] [client 2400:cb00:21:1024::8d65:6356:24055] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Tue May 01 10:39:38.551924 2018] [:error] [pid 26293] [client 2400:cb00:21:1024::8d65:6356:12591] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed May 09 11:19:05.017094 2018] [:error] [pid 14631] [client 2400:cb00:12:1024::adf5:30f0:11585] script '/var/www/glad.softelos.com/1cb5d.php' not found or unable to stat
+[Thu May 10 13:41:55.099773 2018] [:error] [pid 14633] [client 2400:cb00:21:1024::8d65:626d:10939] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu May 10 13:41:56.730666 2018] [:error] [pid 16540] [client 2400:cb00:21:1024::8d65:626d:30503] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu May 10 13:41:56.902982 2018] [:error] [pid 14680] [client 2400:cb00:21:1024::8d65:626d:16517] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun May 13 19:44:04.527790 2018] [:error] [pid 14684] [client 2400:cb00:73:1024::a29e:6738:18029] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sun May 13 19:44:04.735654 2018] [:error] [pid 14679] [client 2400:cb00:73:1024::a29e:6738:32389] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Tue May 15 09:20:19.354863 2018] [:error] [pid 4649] [client 2400:cb00:71:1024::a29e:5b1a:20023] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue May 15 09:20:21.397474 2018] [:error] [pid 4646] [client 2400:cb00:71:1024::a29e:5b1a:18083] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Tue May 15 09:20:21.617815 2018] [:error] [pid 4647] [client 2400:cb00:71:1024::a29e:5b1a:13117] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Tue May 15 14:44:44.925497 2018] [:error] [pid 4646] [client 2400:cb00:71:1024::a29e:5b1a:23221] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu May 17 09:11:35.389123 2018] [:error] [pid 4598] [client 2400:cb00:73:1024::a29e:6720:25935] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Thu May 17 09:11:35.612912 2018] [:error] [pid 4645] [client 2400:cb00:73:1024::a29e:6720:25115] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Tue May 22 09:50:27.889372 2018] [:error] [pid 19784] [client 2400:cb00:73:1024::a29e:6697:9117] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Tue May 22 09:50:28.311413 2018] [:error] [pid 21808] [client 2400:cb00:73:1024::a29e:6697:29183] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Wed May 23 23:42:19.002557 2018] [:error] [pid 19829] [client 2400:cb00:73:1024::a29e:66df:31641] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Wed May 23 23:42:19.223664 2018] [:error] [pid 19827] [client 2400:cb00:73:1024::a29e:66df:12031] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Thu May 24 23:30:58.077008 2018] [:error] [pid 19853] [client 2400:cb00:19:1024::ac45:e22c:33595] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu May 24 23:31:01.424212 2018] [:error] [pid 19831] [client 2400:cb00:19:1024::ac45:e22c:10625] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu May 24 23:31:01.592108 2018] [:error] [pid 19833] [client 2400:cb00:19:1024::ac45:e22c:11913] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Fri May 25 05:09:33.500739 2018] [:error] [pid 23676] [client 2400:cb00:19:1024::ac45:e22c:22399] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Fri May 25 05:09:35.836912 2018] [:error] [pid 19832] [client 2400:cb00:19:1024::ac45:e22c:21711] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Fri May 25 05:09:35.992113 2018] [:error] [pid 19830] [client 2400:cb00:19:1024::ac45:e22c:30771] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat May 26 01:05:17.245768 2018] [:error] [pid 19828] [client 2400:cb00:19:1024::ac45:e22c:32605] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat May 26 01:05:18.756769 2018] [:error] [pid 23676] [client 2400:cb00:19:1024::ac45:e22c:23797] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat May 26 01:05:18.907047 2018] [:error] [pid 19784] [client 2400:cb00:19:1024::ac45:e22c:13739] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat May 26 18:21:36.162806 2018] [:error] [pid 19833] [client 2400:cb00:14:1024::ac44:3ab0:12679] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat May 26 18:21:36.900203 2018] [:error] [pid 32594] [client 2400:cb00:14:1024::ac44:3ab0:18523] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat May 26 18:21:36.975379 2018] [:error] [pid 21808] [client 2400:cb00:14:1024::ac44:3ab0:35391] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon May 28 09:59:26.232166 2018] [:error] [pid 8381] [client 2400:cb00:21:1024::8d65:622b:18425] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon May 28 09:59:27.762444 2018] [:error] [pid 8378] [client 2400:cb00:21:1024::8d65:622b:29073] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon May 28 09:59:27.932006 2018] [:error] [pid 8379] [client 2400:cb00:21:1024::8d65:622b:26731] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon May 28 18:39:17.450658 2018] [:error] [pid 8382] [client 2400:cb00:16:1024::adf5:3634:32715] script '/var/www/glad.softelos.com/license.php' not found or unable to stat
+[Mon May 28 18:39:17.494198 2018] [:error] [pid 8371] [client 2400:cb00:11:1024::a29e:3fdf:33467] script '/var/www/glad.softelos.com/license.php' not found or unable to stat
+[Sun Jun 03 07:28:46.067694 2018] [:error] [pid 25697] [client 2400:cb00:19:1024::8d65:45c6:17429] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sun Jun 03 07:28:47.645164 2018] [:error] [pid 25694] [client 2400:cb00:19:1024::8d65:45c6:31985] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Jun 03 07:28:47.801164 2018] [:error] [pid 25695] [client 2400:cb00:19:1024::8d65:45c6:9815] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu Jun 07 13:59:47.139728 2018] [:error] [pid 25697] [client 2400:cb00:21:1024::a29e:9a34:18337] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Jun 07 13:59:50.829226 2018] [:error] [pid 25701] [client 2400:cb00:21:1024::a29e:9a34:31129] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu Jun 07 13:59:54.038859 2018] [:error] [pid 27159] [client 2400:cb00:21:1024::a29e:9a34:35589] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon Jun 11 04:39:25.304832 2018] [:error] [pid 25693] [client 2400:cb00:21:1024::8d65:62f1:22519] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon Jun 11 04:40:14.293882 2018] [:error] [pid 25696] [client 2400:cb00:21:1024::8d65:62f1:12951] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon Jun 11 04:40:23.499692 2018] [:error] [pid 25649] [client 2400:cb00:21:1024::8d65:62f1:31011] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Tue Jun 12 05:40:27.784428 2018] [:error] [pid 19221] [client 2400:cb00:73:1024::a29e:6708:10935] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Tue Jun 12 05:40:27.997812 2018] [:error] [pid 19217] [client 2400:cb00:73:1024::a29e:6708:25889] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Wed Jun 13 09:54:03.467781 2018] [:error] [pid 19222] [client 2400:cb00:16:1024::a29e:4e9d:31115] script '/var/www/glad.softelos.com/up.php' not found or unable to stat
+[Wed Jun 13 09:54:06.926753 2018] [:error] [pid 20094] [client 2400:cb00:11:1024::6ca2:db43:9861] script '/var/www/glad.softelos.com/up.php' not found or unable to stat
+[Fri Jun 15 07:18:38.033578 2018] [:error] [pid 19173] [client 2400:cb00:148:1024::ac45:be37:22527] script '/var/www/glad.softelos.com/up.php' not found or unable to stat
+[Fri Jun 15 13:33:28.627842 2018] [:error] [pid 20094] [client 2400:cb00:148:1024::ac45:be37:11205] script '/var/www/glad.softelos.com/temp.php' not found or unable to stat
+[Fri Jun 15 13:56:44.185804 2018] [:error] [pid 19174] [client 2400:cb00:73:1024::a29e:6619:37107] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Fri Jun 15 13:56:44.420645 2018] [:error] [pid 25265] [client 2400:cb00:73:1024::a29e:6619:18183] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sat Jun 16 18:26:34.899250 2018] [:error] [pid 19222] [client 2400:cb00:148:1024::ac45:be37:19373] script '/var/www/glad.softelos.com/configurationbak.php' not found or unable to stat
+[Sun Jun 17 08:59:07.042406 2018] [:error] [pid 4373] [client 2400:cb00:148:1024::ac45:be37:11849] script '/var/www/glad.softelos.com/cache.php' not found or unable to stat
+[Mon Jun 18 03:30:35.820300 2018] [:error] [pid 4440] [client 2400:cb00:148:1024::ac45:be37:33011] script '/var/www/glad.softelos.com/wp-logs.php' not found or unable to stat
+[Mon Jun 18 16:15:28.140920 2018] [:error] [pid 4434] [client 2400:cb00:21:1024::8d65:62f1:31051] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon Jun 18 16:15:29.706665 2018] [:error] [pid 4438] [client 2400:cb00:21:1024::8d65:62f1:34001] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon Jun 18 16:15:29.861705 2018] [:error] [pid 4375] [client 2400:cb00:21:1024::8d65:62f1:22039] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon Jun 18 17:33:35.514973 2018] [:error] [pid 4327] [client 2400:cb00:148:1024::ac45:be37:16009] script '/var/www/glad.softelos.com/wp-rdf.php' not found or unable to stat
+[Tue Jun 19 08:43:18.891734 2018] [:error] [pid 4371] [client 2400:cb00:148:1024::ac45:be37:27757] script '/var/www/glad.softelos.com/wp-feed.php' not found or unable to stat
+[Wed Jun 20 00:16:45.395348 2018] [:error] [pid 4439] [client 2400:cb00:148:1024::ac45:be37:15731] script '/var/www/glad.softelos.com/media/media.php' not found or unable to stat
+[Wed Jun 20 03:19:11.712142 2018] [:error] [pid 4373] [client 2400:cb00:73:1024::a29e:6637:17543] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Wed Jun 20 03:19:11.931524 2018] [:error] [pid 4371] [client 2400:cb00:73:1024::a29e:6637:35903] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Fri Jun 22 21:42:04.749047 2018] [:error] [pid 4377] [client 2400:cb00:148:1024::ac45:be37:10027] script '/var/www/glad.softelos.com/cod.php' not found or unable to stat
+[Sat Jun 23 11:26:56.521519 2018] [:error] [pid 4440] [client 2400:cb00:148:1024::ac45:be37:35137] script '/var/www/glad.softelos.com/11.php' not found or unable to stat
+[Sun Jun 24 01:39:01.616840 2018] [:error] [pid 4372] [client 2400:cb00:148:1024::ac45:be37:32551] script '/var/www/glad.softelos.com/wp-sbb.php' not found or unable to stat
+[Mon Jun 25 06:20:42.359583 2018] [:error] [pid 24161] [client 2400:cb00:148:1024::ac45:be37:28421] script '/var/www/glad.softelos.com/LICENSE.php' not found or unable to stat
+[Mon Jun 25 21:07:53.656085 2018] [:error] [pid 24107] [client 2400:cb00:148:1024::ac45:be37:30359] script '/var/www/glad.softelos.com/wp-version.php' not found or unable to stat
+[Tue Jun 26 11:07:34.254071 2018] [:error] [pid 24160] [client 2400:cb00:148:1024::ac45:be37:26467] script '/var/www/glad.softelos.com/ytt.php' not found or unable to stat
+[Wed Jun 27 15:22:56.287682 2018] [:error] [pid 24157] [client 2400:cb00:148:1024::ac45:be37:23379] script '/var/www/glad.softelos.com/smalls.php' not found or unable to stat
+[Thu Jun 28 09:27:52.108269 2018] [:error] [pid 26791] [client 2400:cb00:132:1024::ac44:ef26:30911] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Fri Jun 29 07:51:11.750872 2018] [:error] [pid 24159] [client 2400:cb00:73:1024::a29e:6619:13109] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Fri Jun 29 07:51:12.066683 2018] [:error] [pid 25308] [client 2400:cb00:73:1024::a29e:6619:23297] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Fri Jun 29 15:33:01.527328 2018] [:error] [pid 26793] [client 2400:cb00:148:1024::ac45:be37:31241] script '/var/www/glad.softelos.com/get.php' not found or unable to stat
+[Sat Jun 30 05:45:04.988731 2018] [:error] [pid 24155] [client 2400:cb00:148:1024::ac45:be37:31755] script '/var/www/glad.softelos.com/11.php' not found or unable to stat
+[Sat Jun 30 19:35:34.381996 2018] [:error] [pid 24151] [client 2400:cb00:148:1024::ac45:be37:16787] script '/var/www/glad.softelos.com/cache.php' not found or unable to stat
+[Sun Jul 01 07:38:46.021704 2018] [:error] [pid 24153] [client 2400:cb00:73:1024::a29e:6619:10995] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sun Jul 01 07:38:46.243831 2018] [:error] [pid 26791] [client 2400:cb00:73:1024::a29e:6619:11045] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Mon Jul 02 14:20:49.769444 2018] [:error] [pid 12993] [client 2400:cb00:148:1024::ac45:be37:21687] script '/var/www/glad.softelos.com/config.php' not found or unable to stat
+[Mon Jul 02 21:37:20.631287 2018] [:error] [pid 12994] [client 2400:cb00:21:1024::8d65:62f1:19549] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon Jul 02 21:37:22.242200 2018] [:error] [pid 12990] [client 2400:cb00:21:1024::8d65:62f1:36611] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon Jul 02 21:37:22.460672 2018] [:error] [pid 12992] [client 2400:cb00:21:1024::8d65:62f1:18823] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Tue Jul 03 04:19:29.676541 2018] [:error] [pid 12991] [client 2400:cb00:148:1024::ac45:be37:11475] script '/var/www/glad.softelos.com/consystem.php' not found or unable to stat
+[Tue Jul 03 18:44:40.694087 2018] [:error] [pid 12946] [client 2400:cb00:148:1024::ac45:be37:17445] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Wed Jul 04 10:22:43.013838 2018] [:error] [pid 20317] [client 2400:cb00:148:1024::ac45:be37:23067] script '/var/www/glad.softelos.com/wp-register.php' not found or unable to stat
+[Wed Jul 04 11:46:07.454758 2018] [:error] [pid 16134] [client 2400:cb00:132:1024::ac44:ef92:24033] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Wed Jul 04 11:46:07.705873 2018] [:error] [pid 12994] [client 2400:cb00:132:1024::ac44:ef92:36955] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Wed Jul 04 22:36:16.899726 2018] [:error] [pid 12945] [client 2400:cb00:132:1024::ac44:eed3:17399] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Jul 05 03:37:06.468747 2018] [:error] [pid 20319] [client 2400:cb00:148:1024::ac45:be37:35569] script '/var/www/glad.softelos.com/yt.php' not found or unable to stat
+[Sat Jul 07 03:05:12.538162 2018] [:error] [pid 20320] [client 2400:cb00:73:1024::a29e:6667:32879] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sat Jul 07 03:05:12.767924 2018] [:error] [pid 12991] [client 2400:cb00:73:1024::a29e:6667:27885] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sat Jul 07 17:13:06.706543 2018] [:error] [pid 12991] [client 2400:cb00:35:1024::ac44:9070:25221] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon Jul 09 07:36:00.827803 2018] [:error] [pid 5259] [client 2400:cb00:20:1024::8d65:4c1f:16051] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue Jul 10 20:57:31.689451 2018] [:error] [pid 11653] [client 2400:cb00:73:1024::a29e:6720:33409] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Tue Jul 10 20:57:31.923597 2018] [:error] [pid 11652] [client 2400:cb00:73:1024::a29e:6720:34367] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Thu Jul 12 07:41:51.866524 2018] [:error] [pid 5350] [client 2400:cb00:73:1024::a29e:665b:18233] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Thu Jul 12 07:41:52.080115 2018] [:error] [pid 11648] [client 2400:cb00:73:1024::a29e:665b:9875] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sun Jul 15 14:11:37.853800 2018] [:error] [pid 7166] [client 2400:cb00:132:1024::ac44:ef26:18231] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue Jul 17 05:34:50.768396 2018] [:error] [pid 27090] [client 2400:cb00:73:1024::a29e:677a:23733] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Tue Jul 17 05:34:51.393050 2018] [:error] [pid 27091] [client 2400:cb00:73:1024::a29e:677a:11035] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Tue Jul 17 05:45:38.156552 2018] [:error] [pid 27093] [client 2400:cb00:21:1024::a29e:9a2e:14605] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue Jul 17 05:45:39.771262 2018] [:error] [pid 27091] [client 2400:cb00:21:1024::8d65:6b39:34511] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Tue Jul 17 05:45:39.930716 2018] [:error] [pid 27092] [client 2400:cb00:21:1024::a29e:9a1c:35303] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Jul 18 15:20:31.033522 2018] [:error] [pid 27092] [client 2400:cb00:19:1024::8d65:5813:26135] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Wed Jul 18 15:20:32.674026 2018] [:error] [pid 27045] [client 2400:cb00:19:1024::8d65:45c6:35965] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Jul 18 15:20:32.853681 2018] [:error] [pid 27150] [client 2400:cb00:19:1024::8d65:58c1:21611] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat Jul 21 06:31:52.093035 2018] [:error] [pid 3519] [client 2400:cb00:21:1024::a29e:9a1c:14275] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Jul 21 06:31:53.901266 2018] [:error] [pid 3718] [client 2400:cb00:21:1024::a29e:9ad6:12169] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat Jul 21 06:31:54.073594 2018] [:error] [pid 3717] [client 2400:cb00:21:1024::a29e:9a2e:14577] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat Jul 21 13:42:57.973690 2018] [:error] [pid 3520] [client 2400:cb00:28:1024::6ca2:f626:27325] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue Jul 24 00:13:25.631266 2018] [:error] [pid 14702] [client 2400:cb00:73:1024::a29e:6720:23343] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Tue Jul 24 00:13:25.858009 2018] [:error] [pid 14705] [client 2400:cb00:73:1024::a29e:6720:9943] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Tue Jul 24 21:51:00.802725 2018] [:error] [pid 19607] [client 2400:cb00:19:1024::8d65:584f:24149] script '/var/www/glad.softelos.com/index.php' not found or unable to stat, referer: softelos.com
+[Wed Jul 25 12:31:14.094926 2018] [:error] [pid 14657] [client 2400:cb00:73:1024::a29e:6720:20811] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Wed Jul 25 12:31:14.308216 2018] [:error] [pid 14705] [client 2400:cb00:73:1024::a29e:6720:18399] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sun Jul 29 14:23:01.457703 2018] [:error] [pid 3286] [client 2400:cb00:17:1024::a29e:7ac9:16425] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Tue Jul 31 06:15:37.185107 2018] [:error] [pid 3288] [client 2400:cb00:132:1024::ac44:ef68:27705] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue Jul 31 22:57:57.304534 2018] [:error] [pid 3282] [client 2400:cb00:71:1024::a29e:5c31:42140] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Aug 04 07:34:05.581724 2018] [:error] [pid 3286] [client 2400:cb00:106:1024::ac44:36b5:28843] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Aug 04 10:56:27.734636 2018] [:error] [pid 3282] [client 2400:cb00:52:1024::a29e:272c:29374] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Aug 04 12:08:19.868543 2018] [:error] [pid 3284] [client 2400:cb00:73:1024::a29e:6768:13541] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sat Aug 04 12:08:20.115089 2018] [:error] [pid 3283] [client 2400:cb00:73:1024::a29e:66a3:36083] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sun Aug 05 10:51:39.924677 2018] [:error] [pid 3240] [client 2400:cb00:73:1024::a29e:66a3:25967] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sun Aug 05 10:51:40.149168 2018] [:error] [pid 19344] [client 2400:cb00:73:1024::a29e:6774:18081] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Tue Aug 07 23:20:58.788761 2018] [:error] [pid 24873] [client 2400:cb00:74:1024::a29e:d261:9463] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Wed Aug 08 08:36:57.045422 2018] [:error] [pid 24873] [client 2400:cb00:11:1024::a29e:3efc:11007] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: https://google.com
+[Thu Aug 09 02:39:38.394736 2018] [:error] [pid 24873] [client 2400:cb00:73:1024::a29e:6673:14824] script '/var/www/glad.softelos.com/lfm.php' not found or unable to stat
+[Fri Aug 10 23:36:47.586721 2018] [:error] [pid 896] [client 2400:cb00:132:1024::ac44:ee85:52784] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Aug 10 23:36:47.817133 2018] [:error] [pid 24919] [client 2400:cb00:132:1024::ac44:ee85:52830] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sat Aug 11 05:45:44.796403 2018] [:error] [pid 24920] [client 2400:cb00:20:1024::ac45:367e:14680] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue Aug 14 17:03:17.776046 2018] [:error] [pid 10843] [client 2400:cb00:73:1024::a29e:6774:38872] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Tue Aug 14 17:03:17.995101 2018] [:error] [pid 8918] [client 2400:cb00:73:1024::a29e:6774:39262] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Thu Aug 16 05:43:57.347476 2018] [:error] [pid 8964] [client 2400:cb00:73:1024::a29e:6750:59518] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Thu Aug 16 05:43:57.574633 2018] [:error] [pid 8962] [client 2400:cb00:73:1024::a29e:6774:11702] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Mon Aug 20 15:05:57.365377 2018] [:error] [pid 31438] [client 2400:cb00:31:1024::ac44:d782:54540] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Mon Aug 20 15:05:57.677944 2018] [:error] [pid 31439] [client 2400:cb00:31:1024::ac44:d782:54696] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Mon Aug 20 21:59:11.592321 2018] [:error] [pid 31437] [client 2400:cb00:114:1024::ac44:32a9:20890] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Tue Aug 21 06:18:06.250489 2018] [:error] [pid 31433] [client 2400:cb00:132:1024::ac44:eedf:49660] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Tue Aug 21 06:18:06.494833 2018] [:error] [pid 31436] [client 2400:cb00:132:1024::ac44:eedf:49818] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Aug 24 07:30:45.912410 2018] [:error] [pid 1067] [client 2400:cb00:31:1024::ac44:d72f:59560] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Aug 24 07:30:46.110301 2018] [:error] [pid 31443] [client 2400:cb00:31:1024::ac44:d72f:59656] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Aug 24 12:16:12.739236 2018] [:error] [pid 31437] [client 2400:cb00:31:1024::ac44:d72f:35576] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Aug 24 12:16:13.030268 2018] [:error] [pid 31438] [client 2400:cb00:31:1024::ac44:d72f:35708] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Aug 24 19:52:45.577034 2018] [:error] [pid 31436] [client 2400:cb00:31:1024::ac44:d782:22174] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Fri Aug 24 19:52:45.812478 2018] [:error] [pid 31433] [client 2400:cb00:31:1024::ac44:d736:13386] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sat Aug 25 17:33:40.265955 2018] [:error] [pid 31438] [client 2400:cb00:31:1024::ac44:d72f:59316] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sat Aug 25 17:33:40.480467 2018] [:error] [pid 31433] [client 2400:cb00:31:1024::ac44:d72f:59452] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sun Aug 26 18:25:46.447849 2018] [:error] [pid 16417] [client 2400:cb00:20:1024::8d65:4d41:15430] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon Aug 27 06:07:36.729318 2018] [:error] [pid 15191] [client 2400:cb00:31:1024::ac44:d782:10594] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Mon Aug 27 06:07:36.985487 2018] [:error] [pid 15192] [client 2400:cb00:31:1024::ac44:d782:10778] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Aug 30 10:12:06.547313 2018] [:error] [pid 15188] [client 2400:cb00:31:1024::ac44:d736:13122] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Thu Aug 30 10:12:06.769521 2018] [:error] [pid 15143] [client 2400:cb00:31:1024::ac44:d782:39958] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Thu Aug 30 16:09:09.362476 2018] [:error] [pid 16417] [client 2400:cb00:19:1024::8d65:58eb:31958] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu Aug 30 17:31:58.915613 2018] [:error] [pid 15194] [client 2400:cb00:132:1024::ac44:ef08:26934] script '/var/www/glad.softelos.com/dbs.php' not found or unable to stat
+[Sun Sep 02 12:04:35.942381 2018] [:error] [pid 15145] [client 2400:cb00:31:1024::ac44:d782:50826] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Sun Sep 02 12:04:36.268749 2018] [:error] [pid 15270] [client 2400:cb00:31:1024::ac44:d782:50990] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Wed Sep 05 13:20:16.039270 2018] [:error] [pid 5465] [client 2400:cb00:31:1024::ac44:d72f:47134] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Wed Sep 05 13:20:16.519004 2018] [:error] [pid 5467] [client 2400:cb00:31:1024::ac44:d72f:47360] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sun Sep 09 06:13:18.138985 2018] [:error] [pid 5461] [client 2400:cb00:31:1024::ac44:d736:32838] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sun Sep 09 06:13:18.371571 2018] [:error] [pid 5466] [client 2400:cb00:31:1024::ac44:d782:22704] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sun Sep 09 23:40:54.413922 2018] [:error] [pid 23684] [client 2400:cb00:31:1024::ac44:d782:9818] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sun Sep 09 23:40:54.639747 2018] [:error] [pid 23685] [client 2400:cb00:31:1024::ac44:d72f:15736] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Wed Sep 12 05:38:35.754851 2018] [:error] [pid 23682] [client 2400:cb00:12:1024::a29e:3bc7:48456] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Thu Sep 13 01:12:14.484295 2018] [:error] [pid 23685] [client 2400:cb00:31:1024::ac44:d782:53976] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Thu Sep 13 01:12:14.796473 2018] [:error] [pid 23684] [client 2400:cb00:31:1024::ac44:d782:54146] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Thu Sep 13 12:00:09.273517 2018] [:error] [pid 23680] [client 2400:cb00:87:1024::ac44:f469:45676] script '/var/www/glad.softelos.com/license.php' not found or unable to stat
+[Thu Sep 13 12:00:09.514691 2018] [:error] [pid 23683] [client 2400:cb00:87:1024::ac44:f469:45762] script '/var/www/glad.softelos.com/license.php' not found or unable to stat
+[Fri Sep 14 03:40:35.075838 2018] [:error] [pid 23679] [client 2400:cb00:20:1024::8d65:4d8f:28110] script '/var/www/glad.softelos.com/forum.php' not found or unable to stat
+[Sun Sep 16 09:18:05.651181 2018] [:error] [pid 23632] [client 2400:cb00:132:1024::ac44:ee85:43472] script '/var/www/glad.softelos.com/license.php' not found or unable to stat
+[Mon Sep 17 07:45:41.036938 2018] [:error] [pid 15628] [client 2400:cb00:31:1024::ac44:d782:34182] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Mon Sep 17 07:45:41.379047 2018] [:error] [pid 15575] [client 2400:cb00:31:1024::ac44:d736:11640] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Wed Sep 19 11:45:19.242096 2018] [:error] [pid 15628] [client 2400:cb00:31:1024::ac44:d735:24450] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Wed Sep 19 11:45:19.464147 2018] [:error] [pid 15629] [client 2400:cb00:31:1024::ac44:d782:45508] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Thu Sep 20 05:59:27.026421 2018] [:error] [pid 15627] [client 2400:cb00:31:1024::ac44:d735:39302] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Thu Sep 20 05:59:27.247222 2018] [:error] [pid 15628] [client 2400:cb00:31:1024::ac44:d71e:52912] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Fri Sep 21 15:38:49.215046 2018] [:error] [pid 15575] [client 2400:cb00:20:1024::8d65:68da:29760] script '/var/www/glad.softelos.com/installer.php' not found or unable to stat
+[Sun Sep 23 10:41:42.966572 2018] [:error] [pid 5840] [client 2400:cb00:16:1024::a29e:4fe0:61910] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sun Sep 23 10:41:43.252302 2018] [:error] [pid 5839] [client 2400:cb00:16:1024::a29e:4e7f:24328] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Sep 23 10:41:43.300136 2018] [:error] [pid 5837] [client 2400:cb00:16:1024::a29e:4fbc:18496] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Tue Sep 25 15:29:58.009017 2018] [:error] [pid 5880] [client 2400:cb00:31:1024::ac44:d735:19172] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Tue Sep 25 15:29:58.238684 2018] [:error] [pid 5881] [client 2400:cb00:31:1024::ac44:d735:19276] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Wed Sep 26 08:50:42.479860 2018] [:error] [pid 6031] [client 2400:cb00:71:1024::a29e:5ce5:62338] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Wed Sep 26 08:50:44.313511 2018] [:error] [pid 5838] [client 2400:cb00:71:1024::a29e:5811:15250] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Sep 26 08:50:47.788409 2018] [:error] [pid 5886] [client 2400:cb00:71:1024::a29e:5d24:48034] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Sep 26 12:50:28.886666 2018] [:error] [pid 5882] [client 2400:cb00:67:1024::a29e:7231:13248] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Wed Sep 26 16:13:32.702403 2018] [:error] [pid 6031] [client 2400:cb00:12:1024::ac44:2f57:29318] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Wed Sep 26 17:55:07.489497 2018] [:error] [pid 5838] [client 2400:cb00:11:1024::a29e:3f55:65082] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Sep 27 09:20:52.497906 2018] [:error] [pid 5839] [client 2400:cb00:87:1024::ac44:f69b:26056] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Sep 27 15:59:00.036970 2018] [:error] [pid 5886] [client 2400:cb00:12:1024::ac44:d3cd:14146] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Sep 27 23:18:56.039232 2018] [:error] [pid 5837] [client 2400:cb00:4:1024::ac44:84ec:56088] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Fri Sep 28 01:24:01.878854 2018] [:error] [pid 5881] [client 2400:cb00:19:1024::8d65:4530:38318] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Fri Sep 28 01:24:03.461316 2018] [:error] [pid 5838] [client 2400:cb00:19:1024::8d65:58eb:43734] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Fri Sep 28 01:24:03.619922 2018] [:error] [pid 5839] [client 2400:cb00:19:1024::8d65:4530:38950] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Fri Sep 28 01:52:12.685930 2018] [:error] [pid 5881] [client 2400:cb00:52:1024::a29e:2619:46666] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Fri Sep 28 02:57:49.565006 2018] [:error] [pid 6031] [client 2400:cb00:23:1024::ac44:fe2d:33054] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Fri Sep 28 08:32:07.632092 2018] [:error] [pid 5883] [client 2400:cb00:21:1024::a29e:9bad:23694] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Fri Sep 28 12:05:00.666994 2018] [:error] [pid 5885] [client 2400:cb00:35:1024::ac44:929b:18044] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon Oct 01 18:39:20.613445 2018] [:error] [pid 32033] [client 2400:cb00:52:1024::a29e:2619:17972] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Thu Oct 04 18:47:07.181184 2018] [:error] [pid 29385] [client 2400:cb00:148:1024::ac45:be25:19766] script '/var/www/glad.softelos.com/accesson.php' not found or unable to stat
+[Fri Oct 05 03:39:54.866500 2018] [:error] [pid 29255] [client 2400:cb00:12:1024::6ca2:d74f:19992] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sat Oct 06 05:36:20.475654 2018] [:error] [pid 29253] [client 2400:cb00:148:1024::ac45:be3d:58468] script '/var/www/glad.softelos.com/payload.php' not found or unable to stat
+[Sun Oct 07 16:00:08.279662 2018] [:error] [pid 32036] [client 2400:cb00:148:1024::ac45:be25:33584] script '/var/www/glad.softelos.com/wp-load.php' not found or unable to stat
+[Mon Oct 08 10:21:58.988265 2018] [:error] [pid 19432] [client 2400:cb00:148:1024::ac45:be1f:29522] script '/var/www/glad.softelos.com/media/media.php' not found or unable to stat
+[Thu Oct 11 04:45:23.908775 2018] [:error] [pid 20133] [client 2400:cb00:35:1024::ac45:8678:47344] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Thu Oct 11 23:20:40.710332 2018] [:error] [pid 20133] [client 2400:cb00:11:1024::a29e:3f25:47894] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Fri Oct 12 07:08:57.314166 2018] [:error] [pid 19483] [client 2400:cb00:19:1024::6ca2:e591:58792] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Fri Oct 12 07:08:59.156951 2018] [:error] [pid 19432] [client 2400:cb00:19:1024::8d65:5849:46916] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Fri Oct 12 07:08:59.358220 2018] [:error] [pid 19433] [client 2400:cb00:19:1024::8d65:45ea:53270] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sat Oct 13 18:38:30.339371 2018] [:error] [pid 19435] [client 2400:cb00:19:1024::8d65:4524:35362] script '/var/www/glad.softelos.com/content-post.php' not found or unable to stat, referer: http://softelos.com/content-post.php
+[Sat Oct 13 18:38:35.243855 2018] [:error] [pid 19432] [client 2400:cb00:19:1024::8d65:58c1:16144] script '/var/www/glad.softelos.com/lfm.php' not found or unable to stat, referer: http://softelos.com/lfm.php
+[Sat Oct 13 18:38:35.244183 2018] [:error] [pid 19523] [client 2400:cb00:19:1024::ac45:e244:23646] script '/var/www/glad.softelos.com/roots.php' not found or unable to stat, referer: http://softelos.com/roots.php
+[Sat Oct 13 18:38:35.293093 2018] [:error] [pid 19480] [client 2400:cb00:19:1024::ac45:e244:23662] script '/var/www/glad.softelos.com/404.php' not found or unable to stat, referer: http://softelos.com/404.php
+[Sun Oct 14 19:00:48.991814 2018] [:error] [pid 3710] [client 2400:cb00:148:1024::ac45:be25:31440] script '/var/www/glad.softelos.com/interst.php' not found or unable to stat
+[Tue Oct 16 02:36:39.524887 2018] [:error] [pid 3712] [client 2400:cb00:148:1024::ac45:be25:16158] script '/var/www/glad.softelos.com/search.php' not found or unable to stat
+[Tue Oct 16 14:39:16.370376 2018] [:error] [pid 3712] [client 2400:cb00:16:1024::a29e:4e97:40014] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue Oct 16 14:39:16.623503 2018] [:error] [pid 3708] [client 2400:cb00:16:1024::ac44:411b:16348] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Tue Oct 16 14:39:16.659235 2018] [:error] [pid 3709] [client 2400:cb00:16:1024::a29e:4fbc:37416] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Tue Oct 23 00:26:37.434433 2018] [:error] [pid 22004] [client 2400:cb00:31:1024::ac44:d736:34532] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Tue Oct 23 00:26:37.675487 2018] [:error] [pid 22183] [client 2400:cb00:31:1024::ac44:d7a2:61178] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Tue Oct 23 06:39:44.873769 2018] [:error] [pid 22005] [client 2400:cb00:4:1024::ac45:164d:64428] script '/var/www/glad.softelos.com/flow.php' not found or unable to stat
+[Tue Oct 23 06:39:46.013000 2018] [:error] [pid 22007] [client 2400:cb00:4:1024::ac44:bd40:33594] script '/var/www/glad.softelos.com/respond.php' not found or unable to stat
+[Tue Oct 23 21:11:55.406809 2018] [:error] [pid 22004] [client 2400:cb00:71:1024::a29e:582f:63316] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Tue Oct 23 21:11:57.083476 2018] [:error] [pid 25210] [client 2400:cb00:71:1024::a29e:5a93:59006] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Tue Oct 23 21:11:57.268704 2018] [:error] [pid 22001] [client 2400:cb00:71:1024::a29e:5d42:55682] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Oct 24 05:49:10.208545 2018] [:error] [pid 22005] [client 2400:cb00:71:1024::a29e:5976:41522] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Wed Oct 24 06:23:40.454974 2018] [:error] [pid 22091] [client 2400:cb00:21:1024::a29e:9e18:59950] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Wed Oct 24 07:07:12.728666 2018] [:error] [pid 21961] [client 2400:cb00:21:1024::8d65:63b6:62364] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Wed Oct 24 07:07:14.314571 2018] [:error] [pid 22006] [client 2400:cb00:20:1024::8d65:4c3d:38156] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Oct 24 07:07:14.530739 2018] [:error] [pid 22005] [client 2400:cb00:20:1024::8d65:6820:15224] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Oct 24 15:05:44.776970 2018] [:error] [pid 22005] [client 2400:cb00:16:1024::a29e:4fbc:31804] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: https://google.com
+[Thu Oct 25 17:02:41.056065 2018] [:error] [pid 25212] [client 2400:cb00:31:1024::ac44:d7a2:29390] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Thu Oct 25 17:02:41.409507 2018] [:error] [pid 22091] [client 2400:cb00:31:1024::ac44:d735:18240] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Sat Oct 27 02:29:23.202963 2018] [:error] [pid 22005] [client 2400:cb00:19:1024::8d65:58eb:39108] script '/var/www/glad.softelos.com/install.php' not found or unable to stat
+[Sun Oct 28 19:49:48.289548 2018] [:error] [pid 22007] [client 2400:cb00:19:1024::8d65:58eb:43614] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Sun Oct 28 19:49:49.853672 2018] [:error] [pid 22001] [client 2400:cb00:19:1024::ac45:e244:26014] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Sun Oct 28 19:49:50.013851 2018] [:error] [pid 25212] [client 2400:cb00:19:1024::8d65:58c1:11016] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon Oct 29 06:59:56.429047 2018] [:error] [pid 11439] [client 2400:cb00:16:1024::a29e:4e7f:15880] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon Oct 29 06:59:56.750307 2018] [:error] [pid 11437] [client 2400:cb00:16:1024::a29e:4fbc:15872] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon Oct 29 06:59:56.825583 2018] [:error] [pid 11438] [client 2400:cb00:16:1024::a29e:4f74:58878] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Wed Oct 31 07:06:21.161919 2018] [:error] [pid 11438] [client 2400:cb00:132:1024::ac44:ef9e:60438] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Wed Oct 31 07:06:21.391945 2018] [:error] [pid 11938] [client 2400:cb00:132:1024::ac44:ef9e:60506] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat
+[Fri Nov 02 16:11:35.591521 2018] [:error] [pid 11436] [client 2400:cb00:148:1024::ac45:be3d:62196] script '/var/www/glad.softelos.com/wp-conde.php' not found or unable to stat
+[Fri Nov 02 20:26:18.180434 2018] [:error] [pid 11437] [client 2400:cb00:12:1024::ac45:21ec:46174] script '/var/www/glad.softelos.com/flow.php' not found or unable to stat
+[Fri Nov 02 20:26:19.324252 2018] [:error] [pid 11439] [client 2400:cb00:12:1024::a29e:3a24:64012] script '/var/www/glad.softelos.com/respond.php' not found or unable to stat
+[Sat Nov 03 06:44:28.829731 2018] [:error] [pid 11439] [client 2400:cb00:148:1024::ac45:be0d:12028] script '/var/www/glad.softelos.com/hook-filters.php' not found or unable to stat
+[Sun Nov 04 10:43:22.077886 2018] [:error] [pid 26447] [client 2400:cb00:148:1024::ac45:be25:62702] script '/var/www/glad.softelos.com/search.php' not found or unable to stat
+[Mon Nov 05 00:49:03.947311 2018] [:error] [pid 26446] [client 2400:cb00:148:1024::ac45:be3d:65328] script '/var/www/glad.softelos.com/indes.php' not found or unable to stat
+[Mon Nov 05 01:01:29.207583 2018] [:error] [pid 26447] [client 2400:cb00:31:1024::ac44:d7a2:60190] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Mon Nov 05 01:01:29.437299 2018] [:error] [pid 26448] [client 2400:cb00:31:1024::ac44:d7a2:60272] script '/var/www/glad.softelos.com/wp-login.php' not found or unable to stat, referer: http://softelos.com/wp-login.php
+[Mon Nov 05 15:07:15.661582 2018] [:error] [pid 26452] [client 2400:cb00:148:1024::ac45:be25:45432] script '/var/www/glad.softelos.com/wp-cache.php' not found or unable to stat
+[Mon Nov 05 16:24:31.834425 2018] [:error] [pid 26447] [client 2400:cb00:19:1024::8d65:5849:30582] script '/var/www/glad.softelos.com/xmlrpc.php' not found or unable to stat
+[Mon Nov 05 16:24:33.491972 2018] [:error] [pid 26445] [client 2400:cb00:19:1024::ac45:e244:45292] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
+[Mon Nov 05 16:24:33.671843 2018] [:error] [pid 26400] [client 2400:cb00:19:1024::8d65:58c1:52532] script '/var/www/glad.softelos.com/index.php' not found or unable to stat
